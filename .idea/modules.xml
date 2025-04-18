@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/krona.iml" filepath="$PROJECT_DIR$/.idea/modules/krona.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/composeApp/krona.composeApp.iml" filepath="$PROJECT_DIR$/.idea/modules/composeApp/krona.composeApp.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/composeApp/krona.composeApp.androidTest.iml" filepath="$PROJECT_DIR$/.idea/modules/composeApp/krona.composeApp.androidTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/composeApp/krona.composeApp.appleMain.iml" filepath="$PROJECT_DIR$/.idea/modules/composeApp/krona.composeApp.appleMain.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/composeApp/krona.composeApp.appleTest.iml" filepath="$PROJECT_DIR$/.idea/modules/composeApp/krona.composeApp.appleTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/composeApp/krona.composeApp.commonMain.iml" filepath="$PROJECT_DIR$/.idea/modules/composeApp/krona.composeApp.commonMain.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/composeApp/krona.composeApp.commonTest.iml" filepath="$PROJECT_DIR$/.idea/modules/composeApp/krona.composeApp.commonTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/composeApp/krona.composeApp.iosArm64Main.iml" filepath="$PROJECT_DIR$/.idea/modules/composeApp/krona.composeApp.iosArm64Main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/composeApp/krona.composeApp.iosArm64Test.iml" filepath="$PROJECT_DIR$/.idea/modules/composeApp/krona.composeApp.iosArm64Test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/composeApp/krona.composeApp.iosMain.iml" filepath="$PROJECT_DIR$/.idea/modules/composeApp/krona.composeApp.iosMain.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/composeApp/krona.composeApp.iosSimulatorArm64Main.iml" filepath="$PROJECT_DIR$/.idea/modules/composeApp/krona.composeApp.iosSimulatorArm64Main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/composeApp/krona.composeApp.iosSimulatorArm64Test.iml" filepath="$PROJECT_DIR$/.idea/modules/composeApp/krona.composeApp.iosSimulatorArm64Test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/composeApp/krona.composeApp.iosTest.iml" filepath="$PROJECT_DIR$/.idea/modules/composeApp/krona.composeApp.iosTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/composeApp/krona.composeApp.iosX64Main.iml" filepath="$PROJECT_DIR$/.idea/modules/composeApp/krona.composeApp.iosX64Main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/composeApp/krona.composeApp.iosX64Test.iml" filepath="$PROJECT_DIR$/.idea/modules/composeApp/krona.composeApp.iosX64Test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/composeApp/krona.composeApp.main.iml" filepath="$PROJECT_DIR$/.idea/modules/composeApp/krona.composeApp.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/composeApp/krona.composeApp.nativeMain.iml" filepath="$PROJECT_DIR$/.idea/modules/composeApp/krona.composeApp.nativeMain.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/composeApp/krona.composeApp.nativeTest.iml" filepath="$PROJECT_DIR$/.idea/modules/composeApp/krona.composeApp.nativeTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/composeApp/krona.composeApp.unitTest.iml" filepath="$PROJECT_DIR$/.idea/modules/composeApp/krona.composeApp.unitTest.iml" />
+    </modules>
+  </component>
+</project>

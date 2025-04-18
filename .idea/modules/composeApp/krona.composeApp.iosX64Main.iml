@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module external.linked.project.id=":composeApp:iosX64Main" external.linked.project.path="$MODULE_DIR$/../../../composeApp" external.root.project.path="$MODULE_DIR$/../../.." external.system.id="GRADLE" external.system.module.group="krona" external.system.module.type="sourceSet" external.system.module.version="unspecified" type="JAVA_MODULE" version="4">
+  <component name="FacetManager">
+    <facet external-system-id="GRADLE" type="kotlin-language" name="Kotlin">
+      <configuration version="5" platform="Native (ios_x64) " allPlatforms="Native []/Native [ios_x64]" useProjectSettings="false" isTestModule="false" externalProjectId=":composeApp" isHmppProject="true">
+        <dependsOnModuleNames>
+          <dependsOn>:composeApp:iosMain</dependsOn>
+          <dependsOn>:composeApp:appleMain</dependsOn>
+          <dependsOn>:composeApp:nativeMain</dependsOn>
+          <dependsOn>:composeApp:commonMain</dependsOn>
+        </dependsOnModuleNames>
+        <sourceSets>
+          <sourceSet>krona.composeApp.iosMain</sourceSet>
+          <sourceSet>krona.composeApp.appleMain</sourceSet>
+          <sourceSet>krona.composeApp.nativeMain</sourceSet>
+          <sourceSet>krona.composeApp.commonMain</sourceSet>
+        </sourceSets>
+        <newMppModelJpsModuleKind>COMPILATION_AND_SOURCE_SET_HOLDER</newMppModelJpsModuleKind>
+        <compilerSettings>
+          <option name="additionalArguments" value="-nostdlib" />
+        </compilerSettings>
+        <compilerArguments>
+          <flagArguments>
+            <flagArg name="debug" arg="true" />
+            <flagArg name="enableAssertions" arg="true" />
+            <flagArg name="noendorsedlibs" arg="true" />
+            <flagArg name="multiPlatform" arg="true" />
+          </flagArguments>
+          <stringArguments>
+            <stringArg name="moduleName" arg="krona:composeApp" />
+            <stringArg name="outputName" arg="J:\AndroidStudioProjects\Krona\composeApp\build\classes\kotlin\iosX64\main\klib\composeApp.klib" />
+            <stringArg name="produce" arg="library" />
+            <stringArg name="shortModuleName" arg="composeApp" />
+            <stringArg name="target" arg="ios_x64" />
+            <stringArg name="apiVersion" arg="2.0" />
+            <stringArg name="languageVersion" arg="2.0" />
+          </stringArguments>
+          <arrayArguments>
+            <arrayArg name="fragmentRefines">
+              <args>
+                <arg>iosX64Main:iosMain</arg>
+                <arg>iosMain:appleMain</arg>
+                <arg>appleMain:nativeMain</arg>
+                <arg>nativeMain:commonMain</arg>
+              </args>
+            </arrayArg>
+            <arrayArg name="fragments">
+              <args>
+                <arg>iosX64Main</arg>
+                <arg>iosMain</arg>
+                <arg>appleMain</arg>
+                <arg>nativeMain</arg>
+                <arg>commonMain</arg>
+              </args>
+            </arrayArg>
+            <arrayArg name="pluginClasspaths">
+              <args>$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.jetbrains.kotlin/kotlin-compose-compiler-plugin-embeddable/2.0.20/d3b5072df7943425b2ec5b5cfb323701cb5d8bd2/kotlin-compose-compiler-plugin-embeddable-2.0.20.jar</args>
+            </arrayArg>
+            <arrayArg name="pluginOptions">
+              <args>
+                <arg>plugin:androidx.compose.compiler.plugins.kotlin:generateFunctionKeyMetaClasses=false</arg>
+                <arg>plugin:androidx.compose.compiler.plugins.kotlin:traceMarkersEnabled=true</arg>
+              </args>
+            </arrayArg>
+          </arrayArguments>
+        </compilerArguments>
+      </configuration>
+    </facet>
+  </component>
+  <component name="NewModuleRootManager">
+    <output url="file://$MODULE_DIR$/../../../composeApp/build/classes/kotlin/iosX64/main/klib" />
+    <exclude-output />
+    <content url="file://$MODULE_DIR$/../../../composeApp/build/generated/compose/resourceGenerator/kotlin/iosX64MainResourceAccessors" />
+    <content url="file://$MODULE_DIR$/../../../composeApp/build/kotlin-multiplatform-resources/aggregated-resources/iosX64" />
+    <content url="file://$MODULE_DIR$/../../../composeApp/src/iosX64Main" />
+    <orderEntry type="jdk" jdkName="Kotlin SDK" jdkType="KotlinSDK" />
+    <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="module" module-name="krona.composeApp.iosMain" />
+    <orderEntry type="module" module-name="krona.composeApp.appleMain" />
+    <orderEntry type="module" module-name="krona.composeApp.nativeMain" />
+    <orderEntry type="module" module-name="krona.composeApp.commonMain" />
+    <orderEntry type="library" name="Gradle: Kotlin/Native: stdlib" level="project" />
+    <orderEntry type="library" name="Gradle: org.jetbrains.compose.components:components-resources-iosX64:1.6.11" level="project" />
+    <orderEntry type="library" name="Gradle: org.jetbrains.compose.components:components-ui-tooling-preview-iosX64:1.6.11" level="project" />
+    <orderEntry type="library" name="Gradle: org.jetbrains.compose.material:material-uikitx64:1.6.11" level="project" />
+    <orderEntry type="library" name="Gradle: org.jetbrains.compose.material3:material3-uikitx64:1.6.11" level="project" />
+    <orderEntry type="library" name="Gradle: org.jetbrains.compose.material:material-ripple-uikitx64:1.6.11" level="project" />
+    <orderEntry type="library" name="Gradle: org.jetbrains.compose.foundation:foundation-uikitx64:1.6.11" level="project" />
+    <orderEntry type="library" name="Gradle: org.jetbrains.compose.animation:animation-uikitx64:1.6.11" level="project" />
+    <orderEntry type="library" name="Gradle: org.jetbrains.compose.foundation:foundation-layout-uikitx64:1.6.11" level="project" />
+    <orderEntry type="library" name="Gradle: org.jetbrains.compose.animation:animation-core-uikitx64:1.6.11" level="project" />
+    <orderEntry type="library" name="Gradle: org.jetbrains.compose.material:material-icons-core-uikitx64:1.6.11" level="project" />
+    <orderEntry type="library" name="Gradle: org.jetbrains.compose.ui:ui-uikitx64:1.6.11" level="project" />
+    <orderEntry type="library" name="Gradle: org.jetbrains.androidx.lifecycle:lifecycle-runtime-compose-uikitx64:2.8.0" level="project" />
+    <orderEntry type="library" name="Gradle: androidx.lifecycle:lifecycle-runtime-iosx64:2.8.0" level="project" />
+    <orderEntry type="library" name="Gradle: androidx.lifecycle:lifecycle-common-iosx64:2.8.0" level="project" />
+    <orderEntry type="library" name="Gradle: androidx.lifecycle:lifecycle-viewmodel-iosx64:2.8.0" level="project" />
+    <orderEntry type="library" name="Gradle: org.jetbrains.compose.ui:ui-text-uikitx64:1.6.11" level="project" />
+    <orderEntry type="library" name="Gradle: org.jetbrains.compose.runtime:runtime-saveable-uikitx64:1.6.11" level="project" />
+    <orderEntry type="library" name="Gradle: org.jetbrains.compose.ui:ui-graphics-uikitx64:1.6.11" level="project" />
+    <orderEntry type="library" name="Gradle: org.jetbrains.compose.ui:ui-unit-uikitx64:1.6.11" level="project" />
+    <orderEntry type="library" name="Gradle: org.jetbrains.compose.ui:ui-geometry-uikitx64:1.6.11" level="project" />
+    <orderEntry type="library" name="Gradle: org.jetbrains.compose.runtime:runtime-uikitx64:1.6.11" level="project" />
+    <orderEntry type="library" name="Gradle: org.jetbrains.skiko:skiko-iosx64:0.8.4" level="project" />
+    <orderEntry type="library" name="Gradle: org.jetbrains.kotlinx:kotlinx-coroutines-core-iosx64:1.8.0" level="project" />
+    <orderEntry type="library" name="Gradle: org.jetbrains.kotlinx:atomicfu-iosx64:0.23.2" level="project" />
+    <orderEntry type="library" name="Gradle: org.jetbrains.kotlinx:kotlinx-datetime-iosx64:0.6.0" level="project" />
+    <orderEntry type="library" name="Gradle: androidx.collection:collection-iosx64:1.4.0" level="project" />
+    <orderEntry type="library" name="Gradle: androidx.annotation:annotation-iosx64:1.8.0" level="project" />
+    <orderEntry type="library" name="Gradle: org.jetbrains.kotlinx:kotlinx-serialization-core-iosx64:1.6.2" level="project" />
+    <orderEntry type="library" name="Gradle: org.jetbrains.compose.ui:ui-util-uikitx64:1.6.11" level="project" />
+    <orderEntry type="library" name="Gradle: org.jetbrains.compose.ui:ui-uikit-uikitx64:1.6.11" level="project" />
+  </component>
+</module>

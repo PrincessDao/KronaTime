@@ -1,0 +1,214 @@
+[
+    {
+        "merged": "org.example.krona.composeApp-debug-49:/mipmap-mdpi_ic_launcher.png.flat",
+        "source": "org.example.krona.composeApp-androidMain-51:/mipmap-mdpi/ic_launcher.png"
+    },
+    {
+        "merged": "org.example.krona.composeApp-debug-49:/mipmap-mdpi_logo_foreground.webp.flat",
+        "source": "org.example.krona.composeApp-main-53:/mipmap-mdpi/logo_foreground.webp"
+    },
+    {
+        "merged": "org.example.krona.composeApp-debug-49:/font_raleway_ultralight_italic.ttf.flat",
+        "source": "org.example.krona.composeApp-androidMain-51:/font/raleway_ultralight_italic.ttf"
+    },
+    {
+        "merged": "org.example.krona.composeApp-debug-49:/mipmap-mdpi_ic_launcher_round.png.flat",
+        "source": "org.example.krona.composeApp-androidMain-51:/mipmap-mdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "org.example.krona.composeApp-debug-49:/font_raleway_semi_bold_italic.ttf.flat",
+        "source": "org.example.krona.composeApp-androidMain-51:/font/raleway_semi_bold_italic.ttf"
+    },
+    {
+        "merged": "org.example.krona.composeApp-debug-49:/drawable_ic_launcher_background.xml.flat",
+        "source": "org.example.krona.composeApp-androidMain-51:/drawable/ic_launcher_background.xml"
+    },
+    {
+        "merged": "org.example.krona.composeApp-debug-49:/font_raleway_black_italic.ttf.flat",
+        "source": "org.example.krona.composeApp-androidMain-51:/font/raleway_black_italic.ttf"
+    },
+    {
+        "merged": "org.example.krona.composeApp-debug-49:/drawable_logo_background.xml.flat",
+        "source": "org.example.krona.composeApp-main-53:/drawable/logo_background.xml"
+    },
+    {
+        "merged": "org.example.krona.composeApp-debug-49:/mipmap-xhdpi_logo.webp.flat",
+        "source": "org.example.krona.composeApp-main-53:/mipmap-xhdpi/logo.webp"
+    },
+    {
+        "merged": "org.example.krona.composeApp-debug-49:/mipmap-xxxhdpi_logo_round.webp.flat",
+        "source": "org.example.krona.composeApp-main-53:/mipmap-xxxhdpi/logo_round.webp"
+    },
+    {
+        "merged": "org.example.krona.composeApp-debug-49:/mipmap-xhdpi_logo_foreground.webp.flat",
+        "source": "org.example.krona.composeApp-main-53:/mipmap-xhdpi/logo_foreground.webp"
+    },
+    {
+        "merged": "org.example.krona.composeApp-debug-49:/mipmap-xhdpi_logo_round.webp.flat",
+        "source": "org.example.krona.composeApp-main-53:/mipmap-xhdpi/logo_round.webp"
+    },
+    {
+        "merged": "org.example.krona.composeApp-debug-49:/mipmap-xxhdpi_logo_round.webp.flat",
+        "source": "org.example.krona.composeApp-main-53:/mipmap-xxhdpi/logo_round.webp"
+    },
+    {
+        "merged": "org.example.krona.composeApp-debug-49:/mipmap-hdpi_ic_launcher.png.flat",
+        "source": "org.example.krona.composeApp-androidMain-51:/mipmap-hdpi/ic_launcher.png"
+    },
+    {
+        "merged": "org.example.krona.composeApp-debug-49:/mipmap-hdpi_ic_launcher_round.png.flat",
+        "source": "org.example.krona.composeApp-androidMain-51:/mipmap-hdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "org.example.krona.composeApp-debug-49:/font_raleway_heavy.ttf.flat",
+        "source": "org.example.krona.composeApp-androidMain-51:/font/raleway_heavy.ttf"
+    },
+    {
+        "merged": "org.example.krona.composeApp-debug-49:/font_raleway_regular_italic.ttf.flat",
+        "source": "org.example.krona.composeApp-androidMain-51:/font/raleway_regular_italic.ttf"
+    },
+    {
+        "merged": "org.example.krona.composeApp-debug-49:/font_raleway_heavy_italic.ttf.flat",
+        "source": "org.example.krona.composeApp-androidMain-51:/font/raleway_heavy_italic.ttf"
+    },
+    {
+        "merged": "org.example.krona.composeApp-debug-49:/font-v26_raleway.xml.flat",
+        "source": "org.example.krona.composeApp-androidMain-51:/font-v26/raleway.xml"
+    },
+    {
+        "merged": "org.example.krona.composeApp-debug-49:/raw_krona.mp4.flat",
+        "source": "org.example.krona.composeApp-androidMain-51:/raw/krona.mp4"
+    },
+    {
+        "merged": "org.example.krona.composeApp-debug-49:/mipmap-anydpi-v26_logo.xml.flat",
+        "source": "org.example.krona.composeApp-main-53:/mipmap-anydpi-v26/logo.xml"
+    },
+    {
+        "merged": "org.example.krona.composeApp-debug-49:/font_raleway_regular.ttf.flat",
+        "source": "org.example.krona.composeApp-androidMain-51:/font/raleway_regular.ttf"
+    },
+    {
+        "merged": "org.example.krona.composeApp-debug-49:/drawable-v24_ic_launcher_foreground.xml.flat",
+        "source": "org.example.krona.composeApp-androidMain-51:/drawable-v24/ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "org.example.krona.composeApp-debug-49:/mipmap-hdpi_logo_foreground.webp.flat",
+        "source": "org.example.krona.composeApp-main-53:/mipmap-hdpi/logo_foreground.webp"
+    },
+    {
+        "merged": "org.example.krona.composeApp-debug-49:/font_raleway_ultralight.ttf.flat",
+        "source": "org.example.krona.composeApp-androidMain-51:/font/raleway_ultralight.ttf"
+    },
+    {
+        "merged": "org.example.krona.composeApp-debug-49:/font_raleway_thin_italic.ttf.flat",
+        "source": "org.example.krona.composeApp-androidMain-51:/font/raleway_thin_italic.ttf"
+    },
+    {
+        "merged": "org.example.krona.composeApp-debug-49:/mipmap-xxxhdpi_logo.webp.flat",
+        "source": "org.example.krona.composeApp-main-53:/mipmap-xxxhdpi/logo.webp"
+    },
+    {
+        "merged": "org.example.krona.composeApp-debug-49:/font_raleway.xml.flat",
+        "source": "org.example.krona.composeApp-androidMain-51:/font/raleway.xml"
+    },
+    {
+        "merged": "org.example.krona.composeApp-debug-49:/mipmap-xxhdpi_logo.webp.flat",
+        "source": "org.example.krona.composeApp-main-53:/mipmap-xxhdpi/logo.webp"
+    },
+    {
+        "merged": "org.example.krona.composeApp-debug-49:/font_raleway_medium.ttf.flat",
+        "source": "org.example.krona.composeApp-androidMain-51:/font/raleway_medium.ttf"
+    },
+    {
+        "merged": "org.example.krona.composeApp-debug-49:/mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "org.example.krona.composeApp-androidMain-51:/mipmap-xxxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "org.example.krona.composeApp-debug-49:/mipmap-mdpi_logo_round.webp.flat",
+        "source": "org.example.krona.composeApp-main-53:/mipmap-mdpi/logo_round.webp"
+    },
+    {
+        "merged": "org.example.krona.composeApp-debug-49:/mipmap-hdpi_logo_round.webp.flat",
+        "source": "org.example.krona.composeApp-main-53:/mipmap-hdpi/logo_round.webp"
+    },
+    {
+        "merged": "org.example.krona.composeApp-debug-49:/font_raleway_medium_italic.ttf.flat",
+        "source": "org.example.krona.composeApp-androidMain-51:/font/raleway_medium_italic.ttf"
+    },
+    {
+        "merged": "org.example.krona.composeApp-debug-49:/mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "org.example.krona.composeApp-androidMain-51:/mipmap-xxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "org.example.krona.composeApp-debug-49:/mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "org.example.krona.composeApp-androidMain-51:/mipmap-anydpi-v26/ic_launcher_round.xml"
+    },
+    {
+        "merged": "org.example.krona.composeApp-debug-49:/font_raleway_black.ttf.flat",
+        "source": "org.example.krona.composeApp-androidMain-51:/font/raleway_black.ttf"
+    },
+    {
+        "merged": "org.example.krona.composeApp-debug-49:/mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "org.example.krona.composeApp-androidMain-51:/mipmap-anydpi-v26/ic_launcher.xml"
+    },
+    {
+        "merged": "org.example.krona.composeApp-debug-49:/font_raleway_light_italic.ttf.flat",
+        "source": "org.example.krona.composeApp-androidMain-51:/font/raleway_light_italic.ttf"
+    },
+    {
+        "merged": "org.example.krona.composeApp-debug-49:/mipmap-xxhdpi_logo_foreground.webp.flat",
+        "source": "org.example.krona.composeApp-main-53:/mipmap-xxhdpi/logo_foreground.webp"
+    },
+    {
+        "merged": "org.example.krona.composeApp-debug-49:/font_raleway_light.ttf.flat",
+        "source": "org.example.krona.composeApp-androidMain-51:/font/raleway_light.ttf"
+    },
+    {
+        "merged": "org.example.krona.composeApp-debug-49:/mipmap-xhdpi_ic_launcher_round.png.flat",
+        "source": "org.example.krona.composeApp-androidMain-51:/mipmap-xhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "org.example.krona.composeApp-debug-49:/mipmap-xxxhdpi_ic_launcher_round.png.flat",
+        "source": "org.example.krona.composeApp-androidMain-51:/mipmap-xxxhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "org.example.krona.composeApp-debug-49:/font_raleway_bold_italic.ttf.flat",
+        "source": "org.example.krona.composeApp-androidMain-51:/font/raleway_bold_italic.ttf"
+    },
+    {
+        "merged": "org.example.krona.composeApp-debug-49:/font_raleway_thin.ttf.flat",
+        "source": "org.example.krona.composeApp-androidMain-51:/font/raleway_thin.ttf"
+    },
+    {
+        "merged": "org.example.krona.composeApp-debug-49:/mipmap-xxxhdpi_logo_foreground.webp.flat",
+        "source": "org.example.krona.composeApp-main-53:/mipmap-xxxhdpi/logo_foreground.webp"
+    },
+    {
+        "merged": "org.example.krona.composeApp-debug-49:/mipmap-mdpi_logo.webp.flat",
+        "source": "org.example.krona.composeApp-main-53:/mipmap-mdpi/logo.webp"
+    },
+    {
+        "merged": "org.example.krona.composeApp-debug-49:/mipmap-anydpi-v26_logo_round.xml.flat",
+        "source": "org.example.krona.composeApp-main-53:/mipmap-anydpi-v26/logo_round.xml"
+    },
+    {
+        "merged": "org.example.krona.composeApp-debug-49:/mipmap-xxhdpi_ic_launcher_round.png.flat",
+        "source": "org.example.krona.composeApp-androidMain-51:/mipmap-xxhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "org.example.krona.composeApp-debug-49:/font_raleway_bold.ttf.flat",
+        "source": "org.example.krona.composeApp-androidMain-51:/font/raleway_bold.ttf"
+    },
+    {
+        "merged": "org.example.krona.composeApp-debug-49:/mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "org.example.krona.composeApp-androidMain-51:/mipmap-xhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "org.example.krona.composeApp-debug-49:/font_raleway_semi_bold.ttf.flat",
+        "source": "org.example.krona.composeApp-androidMain-51:/font/raleway_semi_bold.ttf"
+    },
+    {
+        "merged": "org.example.krona.composeApp-debug-49:/mipmap-hdpi_logo.webp.flat",
+        "source": "org.example.krona.composeApp-main-53:/mipmap-hdpi/logo.webp"
+    }
+]

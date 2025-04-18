@@ -1,0 +1,31 @@
+R_DEF: Internal format may change without notice
+local
+drawable ic_launcher_background
+drawable ic_launcher_foreground
+drawable logo_background
+font raleway
+font raleway_black
+font raleway_black_italic
+font raleway_bold
+font raleway_bold_italic
+font raleway_heavy
+font raleway_heavy_italic
+font raleway_light
+font raleway_light_italic
+font raleway_medium
+font raleway_medium_italic
+font raleway_regular
+font raleway_regular_italic
+font raleway_semi_bold
+font raleway_semi_bold_italic
+font raleway_thin
+font raleway_thin_italic
+font raleway_ultralight
+font raleway_ultralight_italic
+mipmap ic_launcher
+mipmap ic_launcher_round
+mipmap logo
+mipmap logo_foreground
+mipmap logo_round
+raw krona
+string app_name

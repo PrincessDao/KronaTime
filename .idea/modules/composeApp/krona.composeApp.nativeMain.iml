@@ -1,0 +1,147 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module external.linked.project.id=":composeApp:nativeMain" external.linked.project.path="$MODULE_DIR$/../../../composeApp" external.root.project.path="$MODULE_DIR$/../../.." external.system.id="GRADLE" external.system.module.group="krona" external.system.module.type="sourceSet" external.system.module.version="unspecified" type="JAVA_MODULE" version="4">
+  <component name="FacetManager">
+    <facet external-system-id="GRADLE" type="kotlin-language" name="Kotlin">
+      <configuration version="5" platform="Common (experimental) " allPlatforms="Native []/Native [ios_arm64]/Native [ios_simulator_arm64]/Native [ios_x64]" useProjectSettings="false" isTestModule="false" externalProjectId=":composeApp" isHmppProject="true">
+        <dependsOnModuleNames>:composeApp:commonMain</dependsOnModuleNames>
+        <newMppModelJpsModuleKind>SOURCE_SET_HOLDER</newMppModelJpsModuleKind>
+        <compilerSettings />
+        <compilerArguments>
+          <flagArguments>
+            <flagArg name="multiPlatform" arg="true" />
+          </flagArguments>
+          <stringArguments>
+            <stringArg name="apiVersion" arg="2.0" />
+            <stringArg name="languageVersion" arg="2.0" />
+          </stringArguments>
+          <arrayArguments>
+            <arrayArg name="pluginClasspaths">
+              <args>
+                <arg>$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.jetbrains.kotlin/kotlin-compose-compiler-plugin-embeddable/2.0.20/d3b5072df7943425b2ec5b5cfb323701cb5d8bd2/kotlin-compose-compiler-plugin-embeddable-2.0.20.jar</arg>
+                <arg>$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.jetbrains.kotlin/kotlin-scripting-jvm/2.0.20/46b8d2d2028448f6596cc3ce0ad7b10b259ec236/kotlin-scripting-jvm-2.0.20.jar</arg>
+                <arg>$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.jetbrains.kotlin/kotlin-scripting-common/2.0.20/af6097b8ac359457ec1cf9b34bd9b5313b52eb6/kotlin-scripting-common-2.0.20.jar</arg>
+                <arg>$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.jetbrains.kotlin/kotlin-stdlib/2.0.20/7388d355f7cceb002cd387ccb7ab3850e4e0a07f/kotlin-stdlib-2.0.20.jar</arg>
+                <arg>$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.jetbrains/annotations/13.0/919f0dfe192fb4e063e7dacadee7f8bb9a2672a9/annotations-13.0.jar</arg>
+                <arg>$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.jetbrains.kotlin/kotlin-script-runtime/2.0.20/4aea042b39014e0a924c2e1d4a21b6fff7e4d35/kotlin-script-runtime-2.0.20.jar</arg>
+              </args>
+            </arrayArg>
+            <arrayArg name="pluginOptions">
+              <args>
+                <arg>plugin:androidx.compose.compiler.plugins.kotlin:generateFunctionKeyMetaClasses=false</arg>
+                <arg>plugin:androidx.compose.compiler.plugins.kotlin:traceMarkersEnabled=true</arg>
+              </args>
+            </arrayArg>
+          </arrayArguments>
+        </compilerArguments>
+      </configuration>
+    </facet>
+  </component>
+  <component name="NewModuleRootManager" inherit-compiler-output="true">
+    <exclude-output />
+    <content url="file://$MODULE_DIR$/../../../composeApp/build/generated/compose/resourceGenerator/kotlin/nativeMainResourceAccessors" />
+    <content url="file://$MODULE_DIR$/../../../composeApp/src/nativeMain" />
+    <orderEntry type="jdk" jdkName="Kotlin SDK" jdkType="KotlinSDK" />
+    <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="module" module-name="krona.composeApp.commonMain" />
+    <orderEntry type="library" name="Gradle: Kotlin/Native: stdlib" level="project" />
+    <orderEntry type="library" name="Gradle: org.jetbrains.kotlin:kotlin-stdlib:commonMain:2.0.20" level="project" />
+    <orderEntry type="library" name="Gradle: org.jetbrains.compose.runtime:runtime:uikitMain:1.6.11" level="project" />
+    <orderEntry type="library" name="Gradle: org.jetbrains.compose.runtime:runtime:nativeMain:1.6.11" level="project" />
+    <orderEntry type="library" name="Gradle: org.jetbrains.compose.runtime:runtime:jsNativeMain:1.6.11" level="project" />
+    <orderEntry type="library" name="Gradle: org.jetbrains.compose.runtime:runtime:jbMain:1.6.11" level="project" />
+    <orderEntry type="library" name="Gradle: org.jetbrains.compose.runtime:runtime:commonMain:1.6.11" level="project" />
+    <orderEntry type="library" name="Gradle: org.jetbrains.compose.foundation:foundation:uikitMain:1.6.11" level="project" />
+    <orderEntry type="library" name="Gradle: org.jetbrains.compose.foundation:foundation:darwinMain:1.6.11" level="project" />
+    <orderEntry type="library" name="Gradle: org.jetbrains.compose.foundation:foundation:nativeMain:1.6.11" level="project" />
+    <orderEntry type="library" name="Gradle: org.jetbrains.compose.foundation:foundation:jsNativeMain:1.6.11" level="project" />
+    <orderEntry type="library" name="Gradle: org.jetbrains.compose.foundation:foundation:skikoMain:1.6.11" level="project" />
+    <orderEntry type="library" name="Gradle: org.jetbrains.compose.foundation:foundation:commonMain:1.6.11" level="project" />
+    <orderEntry type="library" name="Gradle: org.jetbrains.compose.material:material:nativeMain:1.6.11" level="project" />
+    <orderEntry type="library" name="Gradle: org.jetbrains.compose.material:material:jsNativeMain:1.6.11" level="project" />
+    <orderEntry type="library" name="Gradle: org.jetbrains.compose.material:material:skikoMain:1.6.11" level="project" />
+    <orderEntry type="library" name="Gradle: org.jetbrains.compose.material:material:commonMain:1.6.11" level="project" />
+    <orderEntry type="library" name="Gradle: org.jetbrains.compose.ui:ui:uikitMain:1.6.11" level="project" />
+    <orderEntry type="library" name="Gradle: org.jetbrains.compose.ui:ui:darwinMain:1.6.11" level="project" />
+    <orderEntry type="library" name="Gradle: org.jetbrains.compose.ui:ui:nativeMain:1.6.11" level="project" />
+    <orderEntry type="library" name="Gradle: org.jetbrains.compose.ui:ui:jsNativeMain:1.6.11" level="project" />
+    <orderEntry type="library" name="Gradle: org.jetbrains.compose.ui:ui:skikoMain:1.6.11" level="project" />
+    <orderEntry type="library" name="Gradle: org.jetbrains.compose.ui:ui:commonMain:1.6.11" level="project" />
+    <orderEntry type="library" name="Gradle: org.jetbrains.compose.material3:material3:darwinMain:1.6.11" level="project" />
+    <orderEntry type="library" name="Gradle: org.jetbrains.compose.material3:material3:nativeMain:1.6.11" level="project" />
+    <orderEntry type="library" name="Gradle: org.jetbrains.compose.material3:material3:jsNativeMain:1.6.11" level="project" />
+    <orderEntry type="library" name="Gradle: org.jetbrains.compose.material3:material3:skikoMain:1.6.11" level="project" />
+    <orderEntry type="library" name="Gradle: org.jetbrains.compose.material3:material3:commonMain:1.6.11" level="project" />
+    <orderEntry type="library" name="Gradle: org.jetbrains.compose.components:components-resources:iosMain:1.6.11" level="project" />
+    <orderEntry type="library" name="Gradle: org.jetbrains.compose.components:components-resources:nativeMain:1.6.11" level="project" />
+    <orderEntry type="library" name="Gradle: org.jetbrains.compose.components:components-resources:blockingMain:1.6.11" level="project" />
+    <orderEntry type="library" name="Gradle: org.jetbrains.compose.components:components-resources:skikoMain:1.6.11" level="project" />
+    <orderEntry type="library" name="Gradle: org.jetbrains.compose.components:components-resources:commonMain:1.6.11" level="project" />
+    <orderEntry type="library" name="Gradle: org.jetbrains.compose.components:components-ui-tooling-preview:commonMain:1.6.11" level="project" />
+    <orderEntry type="library" name="Gradle: org.jetbrains.androidx.lifecycle:lifecycle-viewmodel:nativeMain:2.8.0" level="project" />
+    <orderEntry type="library" name="Gradle: org.jetbrains.androidx.lifecycle:lifecycle-viewmodel:nonJvmMain:2.8.0" level="project" />
+    <orderEntry type="library" name="Gradle: org.jetbrains.androidx.lifecycle:lifecycle-viewmodel:commonMain:2.8.0" level="project" />
+    <orderEntry type="library" name="Gradle: org.jetbrains.androidx.lifecycle:lifecycle-runtime-compose:commonMain:2.8.0" level="project" />
+    <orderEntry type="library" name="Gradle: org.jetbrains.kotlinx:kotlinx-datetime:darwinMain:0.6.0" level="project" />
+    <orderEntry type="library" name="Gradle: org.jetbrains.kotlinx:kotlinx-datetime:tzdbOnFilesystemMain:0.6.0" level="project" />
+    <orderEntry type="library" name="Gradle: org.jetbrains.kotlinx:kotlinx-datetime:tzfileMain:0.6.0" level="project" />
+    <orderEntry type="library" name="Gradle: org.jetbrains.kotlinx:kotlinx-datetime:nativeMain:0.6.0" level="project" />
+    <orderEntry type="library" name="Gradle: org.jetbrains.kotlinx:kotlinx-datetime:commonMain:0.6.0" level="project" />
+    <orderEntry type="library" name="Gradle: org.jetbrains.compose.collection-internal:collection:jsNativeMain:1.6.11" level="project" />
+    <orderEntry type="library" name="Gradle: org.jetbrains.compose.collection-internal:collection:jbMain:1.6.11" level="project" />
+    <orderEntry type="library" name="Gradle: org.jetbrains.compose.collection-internal:collection:commonMain:1.6.11" level="project" />
+    <orderEntry type="library" name="Gradle: org.jetbrains.kotlinx:atomicfu:nativeMain:0.23.2" level="project" />
+    <orderEntry type="library" name="Gradle: org.jetbrains.kotlinx:atomicfu:commonMain:0.23.2" level="project" />
+    <orderEntry type="library" name="Gradle: org.jetbrains.kotlinx:kotlinx-coroutines-core:nativeDarwinMain:1.8.0" level="project" />
+    <orderEntry type="library" name="Gradle: org.jetbrains.kotlinx:kotlinx-coroutines-core:nativeMain:1.8.0" level="project" />
+    <orderEntry type="library" name="Gradle: org.jetbrains.kotlinx:kotlinx-coroutines-core:concurrentMain:1.8.0" level="project" />
+    <orderEntry type="library" name="Gradle: org.jetbrains.kotlinx:kotlinx-coroutines-core:commonMain:1.8.0" level="project" />
+    <orderEntry type="library" name="Gradle: org.jetbrains.compose.animation:animation:nativeMain:1.6.11" level="project" />
+    <orderEntry type="library" name="Gradle: org.jetbrains.compose.animation:animation:jsNativeMain:1.6.11" level="project" />
+    <orderEntry type="library" name="Gradle: org.jetbrains.compose.animation:animation:commonMain:1.6.11" level="project" />
+    <orderEntry type="library" name="Gradle: org.jetbrains.compose.annotation-internal:annotation:nonJvmMain:1.6.11" level="project" />
+    <orderEntry type="library" name="Gradle: org.jetbrains.compose.annotation-internal:annotation:commonMain:1.6.11" level="project" />
+    <orderEntry type="library" name="Gradle: org.jetbrains.compose.foundation:foundation-layout:uikitMain:1.6.11" level="project" />
+    <orderEntry type="library" name="Gradle: org.jetbrains.compose.foundation:foundation-layout:skikoMain:1.6.11" level="project" />
+    <orderEntry type="library" name="Gradle: org.jetbrains.compose.foundation:foundation-layout:jsNativeMain:1.6.11" level="project" />
+    <orderEntry type="library" name="Gradle: org.jetbrains.compose.foundation:foundation-layout:commonMain:1.6.11" level="project" />
+    <orderEntry type="library" name="Gradle: org.jetbrains.compose.ui:ui-text:darwinMain:1.6.11" level="project" />
+    <orderEntry type="library" name="Gradle: org.jetbrains.compose.ui:ui-text:nativeMain:1.6.11" level="project" />
+    <orderEntry type="library" name="Gradle: org.jetbrains.compose.ui:ui-text:jsNativeMain:1.6.11" level="project" />
+    <orderEntry type="library" name="Gradle: org.jetbrains.compose.ui:ui-text:skikoMain:1.6.11" level="project" />
+    <orderEntry type="library" name="Gradle: org.jetbrains.compose.ui:ui-text:commonMain:1.6.11" level="project" />
+    <orderEntry type="library" name="Gradle: org.jetbrains.compose.ui:ui-util:uikitMain:1.6.11" level="project" />
+    <orderEntry type="library" name="Gradle: org.jetbrains.compose.ui:ui-util:commonMain:1.6.11" level="project" />
+    <orderEntry type="library" name="Gradle: org.jetbrains.skiko:skiko:iosMain:0.8.4" level="project" />
+    <orderEntry type="library" name="Gradle: org.jetbrains.skiko:skiko:darwinMain:0.8.4" level="project" />
+    <orderEntry type="library" name="Gradle: org.jetbrains.skiko:skiko:nativeMain:0.8.4" level="project" />
+    <orderEntry type="library" name="Gradle: org.jetbrains.skiko:skiko:nativeJsMain:0.8.4" level="project" />
+    <orderEntry type="library" name="Gradle: org.jetbrains.skiko:skiko:commonMain:0.8.4" level="project" />
+    <orderEntry type="library" name="Gradle: org.jetbrains.compose.animation:animation-core:uikitMain:1.6.11" level="project" />
+    <orderEntry type="library" name="Gradle: org.jetbrains.compose.animation:animation-core:jsNativeMain:1.6.11" level="project" />
+    <orderEntry type="library" name="Gradle: org.jetbrains.compose.animation:animation-core:jbMain:1.6.11" level="project" />
+    <orderEntry type="library" name="Gradle: org.jetbrains.compose.animation:animation-core:commonMain:1.6.11" level="project" />
+    <orderEntry type="library" name="Gradle: org.jetbrains.compose.material:material-icons-core:commonMain:1.6.11" level="project" />
+    <orderEntry type="library" name="Gradle: org.jetbrains.compose.material:material-ripple:nativeMain:1.6.11" level="project" />
+    <orderEntry type="library" name="Gradle: org.jetbrains.compose.material:material-ripple:commonMain:1.6.11" level="project" />
+    <orderEntry type="library" name="Gradle: org.jetbrains.compose.runtime:runtime-saveable:commonMain:1.6.11" level="project" />
+    <orderEntry type="library" name="Gradle: org.jetbrains.compose.ui:ui-geometry:commonMain:1.6.11" level="project" />
+    <orderEntry type="library" name="Gradle: org.jetbrains.compose.ui:ui-graphics:nativeMain:1.6.11" level="project" />
+    <orderEntry type="library" name="Gradle: org.jetbrains.compose.ui:ui-graphics:skikoExcludingWebMain:1.6.11" level="project" />
+    <orderEntry type="library" name="Gradle: org.jetbrains.compose.ui:ui-graphics:jsNativeMain:1.6.11" level="project" />
+    <orderEntry type="library" name="Gradle: org.jetbrains.compose.ui:ui-graphics:skikoMain:1.6.11" level="project" />
+    <orderEntry type="library" name="Gradle: org.jetbrains.compose.ui:ui-graphics:commonMain:1.6.11" level="project" />
+    <orderEntry type="library" name="Gradle: org.jetbrains.compose.ui:ui-uikit:uikitMain:1.6.11" level="project" />
+    <orderEntry type="library" name="Gradle: org.jetbrains.compose.ui:ui-unit:jsNativeMain:1.6.11" level="project" />
+    <orderEntry type="library" name="Gradle: org.jetbrains.compose.ui:ui-unit:jbMain:1.6.11" level="project" />
+    <orderEntry type="library" name="Gradle: org.jetbrains.compose.ui:ui-unit:commonMain:1.6.11" level="project" />
+    <orderEntry type="library" name="Gradle: org.jetbrains.androidx.lifecycle:lifecycle-common:nonJvmMain:2.8.0" level="project" />
+    <orderEntry type="library" name="Gradle: org.jetbrains.androidx.lifecycle:lifecycle-common:commonMain:2.8.0" level="project" />
+    <orderEntry type="library" name="Gradle: org.jetbrains.androidx.lifecycle:lifecycle-runtime:nativeMain:2.8.0" level="project" />
+    <orderEntry type="library" name="Gradle: org.jetbrains.androidx.lifecycle:lifecycle-runtime:nonJvmMain:2.8.0" level="project" />
+    <orderEntry type="library" name="Gradle: org.jetbrains.androidx.lifecycle:lifecycle-runtime:commonMain:2.8.0" level="project" />
+    <orderEntry type="library" name="Gradle: org.jetbrains.kotlinx:kotlinx-serialization-core:nativeMain:1.6.2" level="project" />
+    <orderEntry type="library" name="Gradle: org.jetbrains.kotlinx:kotlinx-serialization-core:commonMain:1.6.2" level="project" />
+    <orderEntry type="library" name="Gradle: org.jetbrains.kotlinx:atomicfu-cinterop-interop:(android_arm32, android_arm64, android_x64, android_x86, ios_arm64, ios_simulator_arm64, ios_x64, linux_arm64, linux_x64, macos_arm64, macos_x64, mingw_x64, tvos_arm64, tvos_simulator_arm64, tvos_x64, watchos_arm32, watchos_arm64, watchos_device_arm64, watchos_simulator_arm64, watchos_x64)" level="project" />
+    <orderEntry type="library" name="Gradle: org.jetbrains.compose.ui:ui-uikit-cinterop-utils:(ios_arm64, ios_simulator_arm64, ios_x64)" level="project" />
+  </component>
+</module>

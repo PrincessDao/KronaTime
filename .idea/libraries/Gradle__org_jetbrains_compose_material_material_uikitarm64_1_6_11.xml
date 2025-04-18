@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="Gradle: org.jetbrains.compose.material:material-uikitarm64:1.6.11" type="kotlin.native" external-system-id="GRADLE">
+    <properties groupId="org.jetbrains.compose.material" artifactId="material-uikitarm64" version="1.6.11" />
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.jetbrains.compose.material/material-uikitarm64/1.6.11/af1dc0909306904efa3398e17589496b66e07baf/material.klib!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.jetbrains.compose.material/material-uikitarm64/1.6.11/e9320a07b0cd66611a2ed24cd77c03c58c4cc53/material-uikitarm64-1.6.11-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

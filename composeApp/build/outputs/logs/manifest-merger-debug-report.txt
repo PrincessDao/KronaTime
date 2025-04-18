@@ -1,0 +1,369 @@
+-- Merging decision tree log ---
+manifest
+ADDED from J:\AndroidStudioProjects\Krona\composeApp\src\androidMain\AndroidManifest.xml:2:1-23:12
+INJECTED from J:\AndroidStudioProjects\Krona\composeApp\src\androidMain\AndroidManifest.xml:2:1-23:12
+INJECTED from J:\AndroidStudioProjects\Krona\composeApp\src\androidMain\AndroidManifest.xml:2:1-23:12
+INJECTED from J:\AndroidStudioProjects\Krona\composeApp\src\androidMain\AndroidManifest.xml:2:1-23:12
+MERGED from [androidx.compose.material3:material3-android:1.3.0] C:\Users\PrincessDao\.gradle\caches\transforms-4\8e8022a31701babd43b2155caa345b06\transformed\material3-release\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.activity:activity:1.9.1] C:\Users\PrincessDao\.gradle\caches\transforms-4\a65b26983fb6f8c9bdd3cd3bd67ba3b8\transformed\activity-1.9.1\AndroidManifest.xml:17:1-22:12
+MERGED from [com.google.accompanist:accompanist-systemuicontroller:0.30.0] C:\Users\PrincessDao\.gradle\caches\transforms-4\137cc456830f8dea4ec9d142d5cab18a\transformed\accompanist-systemuicontroller-0.30.0\AndroidManifest.xml:17:1-25:12
+MERGED from [androidx.compose.material:material-icons-core-android:1.6.0] C:\Users\PrincessDao\.gradle\caches\transforms-4\cea74bcb69e9b0f76b6c0ee797304909\transformed\material-icons-core-release\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.compose.material:material-ripple-android:1.7.1] C:\Users\PrincessDao\.gradle\caches\transforms-4\b53769e6217af4fbb28c9ee6d108b324\transformed\material-ripple-release\AndroidManifest.xml:2:1-7:12
+MERGED from [org.jetbrains.compose.components:components-resources-android:1.6.11] C:\Users\PrincessDao\.gradle\caches\transforms-4\e8d8943242a8ab275ed29229bc56d287\transformed\library-release\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.compose.foundation:foundation-layout-android:1.7.2] C:\Users\PrincessDao\.gradle\caches\transforms-4\44caf3ca64b6eae813ee6972930d39bb\transformed\foundation-layout-release\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.compose.foundation:foundation-android:1.7.2] C:\Users\PrincessDao\.gradle\caches\transforms-4\9630850c0f52c2eb1cab59f96439c9dc\transformed\foundation-release\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.compose.animation:animation-core-android:1.7.2] C:\Users\PrincessDao\.gradle\caches\transforms-4\708c26bf356c46b64456c47b70fbdf9d\transformed\animation-core-release\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.compose.animation:animation-android:1.7.2] C:\Users\PrincessDao\.gradle\caches\transforms-4\120ccc37962be3bca41d61cdb806ebcb\transformed\animation-release\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.compose.ui:ui-tooling-data-android:1.7.2] C:\Users\PrincessDao\.gradle\caches\transforms-4\7f5eff6a4b2757da83e3635f1810c49c\transformed\ui-tooling-data-release\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.compose.ui:ui-geometry-android:1.7.2] C:\Users\PrincessDao\.gradle\caches\transforms-4\acab8bf5f5b2cceaf82921134c8cb6b5\transformed\ui-geometry-release\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.compose.ui:ui-tooling-preview-android:1.7.2] C:\Users\PrincessDao\.gradle\caches\transforms-4\ee462326d7721c7ee290ffd0881d6747\transformed\ui-tooling-preview-release\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.compose.ui:ui-text-android:1.7.2] C:\Users\PrincessDao\.gradle\caches\transforms-4\93e9050703335a28a7676369670a91c1\transformed\ui-text-release\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.compose.ui:ui-unit-android:1.7.2] C:\Users\PrincessDao\.gradle\caches\transforms-4\88164d9eeccf09af6af00900cb5d4266\transformed\ui-unit-release\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.compose.ui:ui-tooling-android:1.7.2] C:\Users\PrincessDao\.gradle\caches\transforms-4\00babfffde927fefb14611bd28bf2db8\transformed\ui-tooling-release\AndroidManifest.xml:17:1-28:12
+MERGED from [androidx.compose.material:material-android:1.7.1] C:\Users\PrincessDao\.gradle\caches\transforms-4\8969e6b0e8bfac35b4ac97382c90404a\transformed\material-release\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.compose.ui:ui-util-android:1.7.2] C:\Users\PrincessDao\.gradle\caches\transforms-4\086ae671ab26d23b6ac94fdd00ffe56e\transformed\ui-util-release\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.compose.ui:ui-graphics-android:1.7.2] C:\Users\PrincessDao\.gradle\caches\transforms-4\e265c4218c5c91e46ca478161e56ff27\transformed\ui-graphics-release\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.compose.ui:ui-android:1.7.2] C:\Users\PrincessDao\.gradle\caches\transforms-4\a697dc23b7879d01c4ddac93379c033d\transformed\ui-release\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.activity:activity-ktx:1.9.1] C:\Users\PrincessDao\.gradle\caches\transforms-4\73a23e4f708654a537aece1518c51897\transformed\activity-ktx-1.9.1\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.activity:activity-compose:1.9.1] C:\Users\PrincessDao\.gradle\caches\transforms-4\fcc3ae50d3e068bd8d4c7101a50c9ccc\transformed\activity-compose-1.9.1\AndroidManifest.xml:2:1-7:12
+MERGED from [com.google.android.exoplayer:exoplayer:2.19.1] C:\Users\PrincessDao\.gradle\caches\transforms-4\66dd6cb671641abff72cc68d88cb7b5f\transformed\exoplayer-2.19.1\AndroidManifest.xml:17:1-24:12
+MERGED from [org.jetbrains.compose.components:components-ui-tooling-preview-android:1.6.11] C:\Users\PrincessDao\.gradle\caches\transforms-4\2b06447026602a210ce2d670bedb0f4e\transformed\library-release\AndroidManifest.xml:2:1-7:12
+MERGED from [com.google.android.exoplayer:exoplayer-dash:2.19.1] C:\Users\PrincessDao\.gradle\caches\transforms-4\02f8e5575b290a82392b9ce60aa003ee\transformed\exoplayer-dash-2.19.1\AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.exoplayer:exoplayer-hls:2.19.1] C:\Users\PrincessDao\.gradle\caches\transforms-4\67bd356d61c0b4ebad3bec892f53dc44\transformed\exoplayer-hls-2.19.1\AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.exoplayer:exoplayer-rtsp:2.19.1] C:\Users\PrincessDao\.gradle\caches\transforms-4\f310c63ce2d42ab1fc8b132ce3e867f7\transformed\exoplayer-rtsp-2.19.1\AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.exoplayer:exoplayer-smoothstreaming:2.19.1] C:\Users\PrincessDao\.gradle\caches\transforms-4\33680dc7ed34634ac5c8dd482fc0e716\transformed\exoplayer-smoothstreaming-2.19.1\AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.exoplayer:exoplayer-core:2.19.1] C:\Users\PrincessDao\.gradle\caches\transforms-4\794a3f35148a67089cc33fdf44e248b4\transformed\exoplayer-core-2.19.1\AndroidManifest.xml:17:1-26:12
+MERGED from [androidx.graphics:graphics-path:1.0.1] C:\Users\PrincessDao\.gradle\caches\transforms-4\a96d14eca1b9e2cb214e14ab23b2ebaa\transformed\graphics-path-1.0.1\AndroidManifest.xml:2:1-7:12
+MERGED from [com.google.android.exoplayer:exoplayer-ui:2.19.1] C:\Users\PrincessDao\.gradle\caches\transforms-4\f5db9f1ca9861f6703027935561e730f\transformed\exoplayer-ui-2.19.1\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.recyclerview:recyclerview:1.3.0] C:\Users\PrincessDao\.gradle\caches\transforms-4\dc7225d8468e5819b851f7b591a1d44e\transformed\recyclerview-1.3.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.media:media:1.6.0] C:\Users\PrincessDao\.gradle\caches\transforms-4\37ed1f10e57a4f3bdee641a93b33ec30\transformed\media-1.6.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\PrincessDao\.gradle\caches\transforms-4\06d9c57071cc2ab99c97cbeb1e159188\transformed\customview-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.autofill:autofill:1.0.0] C:\Users\PrincessDao\.gradle\caches\transforms-4\92b944063df92755cf15b3de9a7146a8\transformed\autofill-1.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.emoji2:emoji2:1.3.0] C:\Users\PrincessDao\.gradle\caches\transforms-4\f1e427f31fabb8a9312f0b330f37bc34\transformed\emoji2-1.3.0\AndroidManifest.xml:17:1-35:12
+MERGED from [androidx.customview:customview-poolingcontainer:1.0.0] C:\Users\PrincessDao\.gradle\caches\transforms-4\d7c273e51c7ae39fa3776d2b86d20525\transformed\customview-poolingcontainer-1.0.0\AndroidManifest.xml:17:1-23:12
+MERGED from [androidx.core:core-ktx:1.13.1] C:\Users\PrincessDao\.gradle\caches\transforms-4\c11779bf4d9cae75f579657315760437\transformed\core-ktx-1.13.1\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.core:core:1.13.1] C:\Users\PrincessDao\.gradle\caches\transforms-4\e3969c6af169c496b1f78089068881a6\transformed\core-1.13.1\AndroidManifest.xml:17:1-30:12
+MERGED from [androidx.lifecycle:lifecycle-process:2.8.3] C:\Users\PrincessDao\.gradle\caches\transforms-4\d54bad90d208bc956671c8aceedbb75d\transformed\lifecycle-process-2.8.3\AndroidManifest.xml:17:1-35:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.8.3] C:\Users\PrincessDao\.gradle\caches\transforms-4\bb6d4beda26901fec87e1bedeceb640a\transformed\lifecycle-livedata-core-2.8.3\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-android:2.8.3] C:\Users\PrincessDao\.gradle\caches\transforms-4\c6d406dd7c71926fbdea8802a2e79313\transformed\lifecycle-viewmodel-release\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-runtime-ktx-android:2.8.3] C:\Users\PrincessDao\.gradle\caches\transforms-4\efbd026e9d5ed6c1c4bdcd315a90b4ec\transformed\lifecycle-runtime-ktx-release\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.lifecycle:lifecycle-runtime-android:2.8.3] C:\Users\PrincessDao\.gradle\caches\transforms-4\c763ad8345e78e4a7f429d760c963f3b\transformed\lifecycle-runtime-release\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-ktx:2.8.3] C:\Users\PrincessDao\.gradle\caches\transforms-4\f9c089a09a480da9b1ef03a8b2821b20\transformed\lifecycle-viewmodel-ktx-2.8.3\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.lifecycle:lifecycle-runtime-compose-android:2.8.3] C:\Users\PrincessDao\.gradle\caches\transforms-4\8ad72e0ccf3f593c0115c77875339daa\transformed\lifecycle-runtime-compose-release\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.8.3] C:\Users\PrincessDao\.gradle\caches\transforms-4\34e5bc378fc077b155861c0de1f7274e\transformed\lifecycle-viewmodel-savedstate-2.8.3\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.savedstate:savedstate:1.2.1] C:\Users\PrincessDao\.gradle\caches\transforms-4\8b099f154293f169c2b202024611a2e6\transformed\savedstate-1.2.1\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.savedstate:savedstate-ktx:1.2.1] C:\Users\PrincessDao\.gradle\caches\transforms-4\db07a95ae8451d67b1b6234d1a2f4271\transformed\savedstate-ktx-1.2.1\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.compose.runtime:runtime-saveable-android:1.7.2] C:\Users\PrincessDao\.gradle\caches\transforms-4\2618fb9b05d8bc1e0d1aeb6fce093bd7\transformed\runtime-saveable-release\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.compose.runtime:runtime-android:1.7.2] C:\Users\PrincessDao\.gradle\caches\transforms-4\e44451f082bbc3ec95b1b6650b15b03e\transformed\runtime-release\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.annotation:annotation-experimental:1.4.1] C:\Users\PrincessDao\.gradle\caches\transforms-4\e88918b192363f3af9e2ece922b07566\transformed\annotation-experimental-1.4.1\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\PrincessDao\.gradle\caches\transforms-4\35f9aac25de254328cdb8c4487904b0f\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:17:1-27:12
+MERGED from [com.google.android.exoplayer:exoplayer-datasource:2.19.1] C:\Users\PrincessDao\.gradle\caches\transforms-4\a60275b8cf7487c243cc2e57fb22522c\transformed\exoplayer-datasource-2.19.1\AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.exoplayer:exoplayer-database:2.19.1] C:\Users\PrincessDao\.gradle\caches\transforms-4\f490c1dd0dcbf37a25ffb2758729de1a\transformed\exoplayer-database-2.19.1\AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.exoplayer:exoplayer-extractor:2.19.1] C:\Users\PrincessDao\.gradle\caches\transforms-4\cb11301a5db60d13fda9ca8e3dd5a3c7\transformed\exoplayer-extractor-2.19.1\AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.exoplayer:exoplayer-decoder:2.19.1] C:\Users\PrincessDao\.gradle\caches\transforms-4\d21f648e7d18406936ea66d1c1bf2794\transformed\exoplayer-decoder-2.19.1\AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.exoplayer:exoplayer-container:2.19.1] C:\Users\PrincessDao\.gradle\caches\transforms-4\a952e08e730c288e703767cd8605747c\transformed\exoplayer-container-2.19.1\AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.exoplayer:exoplayer-common:2.19.1] C:\Users\PrincessDao\.gradle\caches\transforms-4\c94a4d8c4d19e7e6991fe7b87d6badca\transformed\exoplayer-common-2.19.1\AndroidManifest.xml:17:1-26:12
+MERGED from [androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\PrincessDao\.gradle\caches\transforms-4\e8afe6b0e80aff6a34543253d5dedc6d\transformed\profileinstaller-1.3.1\AndroidManifest.xml:17:1-55:12
+MERGED from [androidx.startup:startup-runtime:1.1.1] C:\Users\PrincessDao\.gradle\caches\transforms-4\63bbd941d0f4b87558e909800d865ef6\transformed\startup-runtime-1.1.1\AndroidManifest.xml:17:1-33:12
+MERGED from [androidx.tracing:tracing:1.0.0] C:\Users\PrincessDao\.gradle\caches\transforms-4\4220d95172ba473b088625eb0be23e69\transformed\tracing-1.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\PrincessDao\.gradle\caches\transforms-4\88d3a1dd1b883705195a5149a398ac5b\transformed\interpolator-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.arch.core:core-runtime:2.2.0] C:\Users\PrincessDao\.gradle\caches\transforms-4\999d4caf884514baddd0e07fc2aacad2\transformed\core-runtime-2.2.0\AndroidManifest.xml:17:1-22:12
+	package
+		INJECTED from J:\AndroidStudioProjects\Krona\composeApp\src\androidMain\AndroidManifest.xml
+	android:versionName
+		INJECTED from J:\AndroidStudioProjects\Krona\composeApp\src\androidMain\AndroidManifest.xml
+	android:versionCode
+		INJECTED from J:\AndroidStudioProjects\Krona\composeApp\src\androidMain\AndroidManifest.xml
+	xmlns:android
+		ADDED from J:\AndroidStudioProjects\Krona\composeApp\src\androidMain\AndroidManifest.xml:2:11-69
+application
+ADDED from J:\AndroidStudioProjects\Krona\composeApp\src\androidMain\AndroidManifest.xml:4:5-21:19
+INJECTED from J:\AndroidStudioProjects\Krona\composeApp\src\androidMain\AndroidManifest.xml:4:5-21:19
+MERGED from [androidx.compose.ui:ui-tooling-android:1.7.2] C:\Users\PrincessDao\.gradle\caches\transforms-4\00babfffde927fefb14611bd28bf2db8\transformed\ui-tooling-release\AndroidManifest.xml:22:5-26:19
+MERGED from [androidx.compose.ui:ui-tooling-android:1.7.2] C:\Users\PrincessDao\.gradle\caches\transforms-4\00babfffde927fefb14611bd28bf2db8\transformed\ui-tooling-release\AndroidManifest.xml:22:5-26:19
+MERGED from [androidx.emoji2:emoji2:1.3.0] C:\Users\PrincessDao\.gradle\caches\transforms-4\f1e427f31fabb8a9312f0b330f37bc34\transformed\emoji2-1.3.0\AndroidManifest.xml:23:5-33:19
+MERGED from [androidx.emoji2:emoji2:1.3.0] C:\Users\PrincessDao\.gradle\caches\transforms-4\f1e427f31fabb8a9312f0b330f37bc34\transformed\emoji2-1.3.0\AndroidManifest.xml:23:5-33:19
+MERGED from [androidx.core:core:1.13.1] C:\Users\PrincessDao\.gradle\caches\transforms-4\e3969c6af169c496b1f78089068881a6\transformed\core-1.13.1\AndroidManifest.xml:28:5-89
+MERGED from [androidx.core:core:1.13.1] C:\Users\PrincessDao\.gradle\caches\transforms-4\e3969c6af169c496b1f78089068881a6\transformed\core-1.13.1\AndroidManifest.xml:28:5-89
+MERGED from [androidx.lifecycle:lifecycle-process:2.8.3] C:\Users\PrincessDao\.gradle\caches\transforms-4\d54bad90d208bc956671c8aceedbb75d\transformed\lifecycle-process-2.8.3\AndroidManifest.xml:23:5-33:19
+MERGED from [androidx.lifecycle:lifecycle-process:2.8.3] C:\Users\PrincessDao\.gradle\caches\transforms-4\d54bad90d208bc956671c8aceedbb75d\transformed\lifecycle-process-2.8.3\AndroidManifest.xml:23:5-33:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\PrincessDao\.gradle\caches\transforms-4\35f9aac25de254328cdb8c4487904b0f\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\PrincessDao\.gradle\caches\transforms-4\35f9aac25de254328cdb8c4487904b0f\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\PrincessDao\.gradle\caches\transforms-4\e8afe6b0e80aff6a34543253d5dedc6d\transformed\profileinstaller-1.3.1\AndroidManifest.xml:23:5-53:19
+MERGED from [androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\PrincessDao\.gradle\caches\transforms-4\e8afe6b0e80aff6a34543253d5dedc6d\transformed\profileinstaller-1.3.1\AndroidManifest.xml:23:5-53:19
+MERGED from [androidx.startup:startup-runtime:1.1.1] C:\Users\PrincessDao\.gradle\caches\transforms-4\63bbd941d0f4b87558e909800d865ef6\transformed\startup-runtime-1.1.1\AndroidManifest.xml:25:5-31:19
+MERGED from [androidx.startup:startup-runtime:1.1.1] C:\Users\PrincessDao\.gradle\caches\transforms-4\63bbd941d0f4b87558e909800d865ef6\transformed\startup-runtime-1.1.1\AndroidManifest.xml:25:5-31:19
+	android:extractNativeLibs
+		INJECTED from J:\AndroidStudioProjects\Krona\composeApp\src\androidMain\AndroidManifest.xml
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.13.1] C:\Users\PrincessDao\.gradle\caches\transforms-4\e3969c6af169c496b1f78089068881a6\transformed\core-1.13.1\AndroidManifest.xml:28:18-86
+	android:supportsRtl
+		ADDED from J:\AndroidStudioProjects\Krona\composeApp\src\androidMain\AndroidManifest.xml:9:9-35
+	android:label
+		ADDED from J:\AndroidStudioProjects\Krona\composeApp\src\androidMain\AndroidManifest.xml:7:9-41
+	android:roundIcon
+		ADDED from J:\AndroidStudioProjects\Krona\composeApp\src\androidMain\AndroidManifest.xml:8:9-47
+	android:icon
+		ADDED from J:\AndroidStudioProjects\Krona\composeApp\src\androidMain\AndroidManifest.xml:6:9-36
+	android:allowBackup
+		ADDED from J:\AndroidStudioProjects\Krona\composeApp\src\androidMain\AndroidManifest.xml:5:9-35
+	android:theme
+		ADDED from J:\AndroidStudioProjects\Krona\composeApp\src\androidMain\AndroidManifest.xml:10:9-72
+activity#org.example.krona.MainActivity
+ADDED from J:\AndroidStudioProjects\Krona\composeApp\src\androidMain\AndroidManifest.xml:11:9-20:20
+	android:exported
+		ADDED from J:\AndroidStudioProjects\Krona\composeApp\src\androidMain\AndroidManifest.xml:12:13-36
+	android:configChanges
+		ADDED from J:\AndroidStudioProjects\Krona\composeApp\src\androidMain\AndroidManifest.xml:13:13-225
+	android:name
+		ADDED from J:\AndroidStudioProjects\Krona\composeApp\src\androidMain\AndroidManifest.xml:14:13-41
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from J:\AndroidStudioProjects\Krona\composeApp\src\androidMain\AndroidManifest.xml:15:13-19:29
+action#android.intent.action.MAIN
+ADDED from J:\AndroidStudioProjects\Krona\composeApp\src\androidMain\AndroidManifest.xml:16:17-69
+	android:name
+		ADDED from J:\AndroidStudioProjects\Krona\composeApp\src\androidMain\AndroidManifest.xml:16:25-66
+category#android.intent.category.LAUNCHER
+ADDED from J:\AndroidStudioProjects\Krona\composeApp\src\androidMain\AndroidManifest.xml:18:17-77
+	android:name
+		ADDED from J:\AndroidStudioProjects\Krona\composeApp\src\androidMain\AndroidManifest.xml:18:27-74
+uses-sdk
+INJECTED from J:\AndroidStudioProjects\Krona\composeApp\src\androidMain\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from J:\AndroidStudioProjects\Krona\composeApp\src\androidMain\AndroidManifest.xml
+INJECTED from J:\AndroidStudioProjects\Krona\composeApp\src\androidMain\AndroidManifest.xml
+MERGED from [androidx.compose.material3:material3-android:1.3.0] C:\Users\PrincessDao\.gradle\caches\transforms-4\8e8022a31701babd43b2155caa345b06\transformed\material3-release\AndroidManifest.xml:20:5-44
+MERGED from [androidx.compose.material3:material3-android:1.3.0] C:\Users\PrincessDao\.gradle\caches\transforms-4\8e8022a31701babd43b2155caa345b06\transformed\material3-release\AndroidManifest.xml:20:5-44
+MERGED from [androidx.activity:activity:1.9.1] C:\Users\PrincessDao\.gradle\caches\transforms-4\a65b26983fb6f8c9bdd3cd3bd67ba3b8\transformed\activity-1.9.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.activity:activity:1.9.1] C:\Users\PrincessDao\.gradle\caches\transforms-4\a65b26983fb6f8c9bdd3cd3bd67ba3b8\transformed\activity-1.9.1\AndroidManifest.xml:20:5-44
+MERGED from [com.google.accompanist:accompanist-systemuicontroller:0.30.0] C:\Users\PrincessDao\.gradle\caches\transforms-4\137cc456830f8dea4ec9d142d5cab18a\transformed\accompanist-systemuicontroller-0.30.0\AndroidManifest.xml:21:5-23:42
+MERGED from [com.google.accompanist:accompanist-systemuicontroller:0.30.0] C:\Users\PrincessDao\.gradle\caches\transforms-4\137cc456830f8dea4ec9d142d5cab18a\transformed\accompanist-systemuicontroller-0.30.0\AndroidManifest.xml:21:5-23:42
+MERGED from [androidx.compose.material:material-icons-core-android:1.6.0] C:\Users\PrincessDao\.gradle\caches\transforms-4\cea74bcb69e9b0f76b6c0ee797304909\transformed\material-icons-core-release\AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.material:material-icons-core-android:1.6.0] C:\Users\PrincessDao\.gradle\caches\transforms-4\cea74bcb69e9b0f76b6c0ee797304909\transformed\material-icons-core-release\AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.material:material-ripple-android:1.7.1] C:\Users\PrincessDao\.gradle\caches\transforms-4\b53769e6217af4fbb28c9ee6d108b324\transformed\material-ripple-release\AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.material:material-ripple-android:1.7.1] C:\Users\PrincessDao\.gradle\caches\transforms-4\b53769e6217af4fbb28c9ee6d108b324\transformed\material-ripple-release\AndroidManifest.xml:5:5-44
+MERGED from [org.jetbrains.compose.components:components-resources-android:1.6.11] C:\Users\PrincessDao\.gradle\caches\transforms-4\e8d8943242a8ab275ed29229bc56d287\transformed\library-release\AndroidManifest.xml:5:5-44
+MERGED from [org.jetbrains.compose.components:components-resources-android:1.6.11] C:\Users\PrincessDao\.gradle\caches\transforms-4\e8d8943242a8ab275ed29229bc56d287\transformed\library-release\AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.foundation:foundation-layout-android:1.7.2] C:\Users\PrincessDao\.gradle\caches\transforms-4\44caf3ca64b6eae813ee6972930d39bb\transformed\foundation-layout-release\AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.foundation:foundation-layout-android:1.7.2] C:\Users\PrincessDao\.gradle\caches\transforms-4\44caf3ca64b6eae813ee6972930d39bb\transformed\foundation-layout-release\AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.foundation:foundation-android:1.7.2] C:\Users\PrincessDao\.gradle\caches\transforms-4\9630850c0f52c2eb1cab59f96439c9dc\transformed\foundation-release\AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.foundation:foundation-android:1.7.2] C:\Users\PrincessDao\.gradle\caches\transforms-4\9630850c0f52c2eb1cab59f96439c9dc\transformed\foundation-release\AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.animation:animation-core-android:1.7.2] C:\Users\PrincessDao\.gradle\caches\transforms-4\708c26bf356c46b64456c47b70fbdf9d\transformed\animation-core-release\AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.animation:animation-core-android:1.7.2] C:\Users\PrincessDao\.gradle\caches\transforms-4\708c26bf356c46b64456c47b70fbdf9d\transformed\animation-core-release\AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.animation:animation-android:1.7.2] C:\Users\PrincessDao\.gradle\caches\transforms-4\120ccc37962be3bca41d61cdb806ebcb\transformed\animation-release\AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.animation:animation-android:1.7.2] C:\Users\PrincessDao\.gradle\caches\transforms-4\120ccc37962be3bca41d61cdb806ebcb\transformed\animation-release\AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.ui:ui-tooling-data-android:1.7.2] C:\Users\PrincessDao\.gradle\caches\transforms-4\7f5eff6a4b2757da83e3635f1810c49c\transformed\ui-tooling-data-release\AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.ui:ui-tooling-data-android:1.7.2] C:\Users\PrincessDao\.gradle\caches\transforms-4\7f5eff6a4b2757da83e3635f1810c49c\transformed\ui-tooling-data-release\AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.ui:ui-geometry-android:1.7.2] C:\Users\PrincessDao\.gradle\caches\transforms-4\acab8bf5f5b2cceaf82921134c8cb6b5\transformed\ui-geometry-release\AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.ui:ui-geometry-android:1.7.2] C:\Users\PrincessDao\.gradle\caches\transforms-4\acab8bf5f5b2cceaf82921134c8cb6b5\transformed\ui-geometry-release\AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.ui:ui-tooling-preview-android:1.7.2] C:\Users\PrincessDao\.gradle\caches\transforms-4\ee462326d7721c7ee290ffd0881d6747\transformed\ui-tooling-preview-release\AndroidManifest.xml:20:5-44
+MERGED from [androidx.compose.ui:ui-tooling-preview-android:1.7.2] C:\Users\PrincessDao\.gradle\caches\transforms-4\ee462326d7721c7ee290ffd0881d6747\transformed\ui-tooling-preview-release\AndroidManifest.xml:20:5-44
+MERGED from [androidx.compose.ui:ui-text-android:1.7.2] C:\Users\PrincessDao\.gradle\caches\transforms-4\93e9050703335a28a7676369670a91c1\transformed\ui-text-release\AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.ui:ui-text-android:1.7.2] C:\Users\PrincessDao\.gradle\caches\transforms-4\93e9050703335a28a7676369670a91c1\transformed\ui-text-release\AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.ui:ui-unit-android:1.7.2] C:\Users\PrincessDao\.gradle\caches\transforms-4\88164d9eeccf09af6af00900cb5d4266\transformed\ui-unit-release\AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.ui:ui-unit-android:1.7.2] C:\Users\PrincessDao\.gradle\caches\transforms-4\88164d9eeccf09af6af00900cb5d4266\transformed\ui-unit-release\AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.ui:ui-tooling-android:1.7.2] C:\Users\PrincessDao\.gradle\caches\transforms-4\00babfffde927fefb14611bd28bf2db8\transformed\ui-tooling-release\AndroidManifest.xml:20:5-44
+MERGED from [androidx.compose.ui:ui-tooling-android:1.7.2] C:\Users\PrincessDao\.gradle\caches\transforms-4\00babfffde927fefb14611bd28bf2db8\transformed\ui-tooling-release\AndroidManifest.xml:20:5-44
+MERGED from [androidx.compose.material:material-android:1.7.1] C:\Users\PrincessDao\.gradle\caches\transforms-4\8969e6b0e8bfac35b4ac97382c90404a\transformed\material-release\AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.material:material-android:1.7.1] C:\Users\PrincessDao\.gradle\caches\transforms-4\8969e6b0e8bfac35b4ac97382c90404a\transformed\material-release\AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.ui:ui-util-android:1.7.2] C:\Users\PrincessDao\.gradle\caches\transforms-4\086ae671ab26d23b6ac94fdd00ffe56e\transformed\ui-util-release\AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.ui:ui-util-android:1.7.2] C:\Users\PrincessDao\.gradle\caches\transforms-4\086ae671ab26d23b6ac94fdd00ffe56e\transformed\ui-util-release\AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.ui:ui-graphics-android:1.7.2] C:\Users\PrincessDao\.gradle\caches\transforms-4\e265c4218c5c91e46ca478161e56ff27\transformed\ui-graphics-release\AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.ui:ui-graphics-android:1.7.2] C:\Users\PrincessDao\.gradle\caches\transforms-4\e265c4218c5c91e46ca478161e56ff27\transformed\ui-graphics-release\AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.ui:ui-android:1.7.2] C:\Users\PrincessDao\.gradle\caches\transforms-4\a697dc23b7879d01c4ddac93379c033d\transformed\ui-release\AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.ui:ui-android:1.7.2] C:\Users\PrincessDao\.gradle\caches\transforms-4\a697dc23b7879d01c4ddac93379c033d\transformed\ui-release\AndroidManifest.xml:5:5-44
+MERGED from [androidx.activity:activity-ktx:1.9.1] C:\Users\PrincessDao\.gradle\caches\transforms-4\73a23e4f708654a537aece1518c51897\transformed\activity-ktx-1.9.1\AndroidManifest.xml:5:5-44
+MERGED from [androidx.activity:activity-ktx:1.9.1] C:\Users\PrincessDao\.gradle\caches\transforms-4\73a23e4f708654a537aece1518c51897\transformed\activity-ktx-1.9.1\AndroidManifest.xml:5:5-44
+MERGED from [androidx.activity:activity-compose:1.9.1] C:\Users\PrincessDao\.gradle\caches\transforms-4\fcc3ae50d3e068bd8d4c7101a50c9ccc\transformed\activity-compose-1.9.1\AndroidManifest.xml:5:5-44
+MERGED from [androidx.activity:activity-compose:1.9.1] C:\Users\PrincessDao\.gradle\caches\transforms-4\fcc3ae50d3e068bd8d4c7101a50c9ccc\transformed\activity-compose-1.9.1\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.exoplayer:exoplayer:2.19.1] C:\Users\PrincessDao\.gradle\caches\transforms-4\66dd6cb671641abff72cc68d88cb7b5f\transformed\exoplayer-2.19.1\AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.exoplayer:exoplayer:2.19.1] C:\Users\PrincessDao\.gradle\caches\transforms-4\66dd6cb671641abff72cc68d88cb7b5f\transformed\exoplayer-2.19.1\AndroidManifest.xml:20:5-22:41
+MERGED from [org.jetbrains.compose.components:components-ui-tooling-preview-android:1.6.11] C:\Users\PrincessDao\.gradle\caches\transforms-4\2b06447026602a210ce2d670bedb0f4e\transformed\library-release\AndroidManifest.xml:5:5-44
+MERGED from [org.jetbrains.compose.components:components-ui-tooling-preview-android:1.6.11] C:\Users\PrincessDao\.gradle\caches\transforms-4\2b06447026602a210ce2d670bedb0f4e\transformed\library-release\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.exoplayer:exoplayer-dash:2.19.1] C:\Users\PrincessDao\.gradle\caches\transforms-4\02f8e5575b290a82392b9ce60aa003ee\transformed\exoplayer-dash-2.19.1\AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.exoplayer:exoplayer-dash:2.19.1] C:\Users\PrincessDao\.gradle\caches\transforms-4\02f8e5575b290a82392b9ce60aa003ee\transformed\exoplayer-dash-2.19.1\AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.exoplayer:exoplayer-hls:2.19.1] C:\Users\PrincessDao\.gradle\caches\transforms-4\67bd356d61c0b4ebad3bec892f53dc44\transformed\exoplayer-hls-2.19.1\AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.exoplayer:exoplayer-hls:2.19.1] C:\Users\PrincessDao\.gradle\caches\transforms-4\67bd356d61c0b4ebad3bec892f53dc44\transformed\exoplayer-hls-2.19.1\AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.exoplayer:exoplayer-rtsp:2.19.1] C:\Users\PrincessDao\.gradle\caches\transforms-4\f310c63ce2d42ab1fc8b132ce3e867f7\transformed\exoplayer-rtsp-2.19.1\AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.exoplayer:exoplayer-rtsp:2.19.1] C:\Users\PrincessDao\.gradle\caches\transforms-4\f310c63ce2d42ab1fc8b132ce3e867f7\transformed\exoplayer-rtsp-2.19.1\AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.exoplayer:exoplayer-smoothstreaming:2.19.1] C:\Users\PrincessDao\.gradle\caches\transforms-4\33680dc7ed34634ac5c8dd482fc0e716\transformed\exoplayer-smoothstreaming-2.19.1\AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.exoplayer:exoplayer-smoothstreaming:2.19.1] C:\Users\PrincessDao\.gradle\caches\transforms-4\33680dc7ed34634ac5c8dd482fc0e716\transformed\exoplayer-smoothstreaming-2.19.1\AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.exoplayer:exoplayer-core:2.19.1] C:\Users\PrincessDao\.gradle\caches\transforms-4\794a3f35148a67089cc33fdf44e248b4\transformed\exoplayer-core-2.19.1\AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.exoplayer:exoplayer-core:2.19.1] C:\Users\PrincessDao\.gradle\caches\transforms-4\794a3f35148a67089cc33fdf44e248b4\transformed\exoplayer-core-2.19.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.graphics:graphics-path:1.0.1] C:\Users\PrincessDao\.gradle\caches\transforms-4\a96d14eca1b9e2cb214e14ab23b2ebaa\transformed\graphics-path-1.0.1\AndroidManifest.xml:5:5-44
+MERGED from [androidx.graphics:graphics-path:1.0.1] C:\Users\PrincessDao\.gradle\caches\transforms-4\a96d14eca1b9e2cb214e14ab23b2ebaa\transformed\graphics-path-1.0.1\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.exoplayer:exoplayer-ui:2.19.1] C:\Users\PrincessDao\.gradle\caches\transforms-4\f5db9f1ca9861f6703027935561e730f\transformed\exoplayer-ui-2.19.1\AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.exoplayer:exoplayer-ui:2.19.1] C:\Users\PrincessDao\.gradle\caches\transforms-4\f5db9f1ca9861f6703027935561e730f\transformed\exoplayer-ui-2.19.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.recyclerview:recyclerview:1.3.0] C:\Users\PrincessDao\.gradle\caches\transforms-4\dc7225d8468e5819b851f7b591a1d44e\transformed\recyclerview-1.3.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.recyclerview:recyclerview:1.3.0] C:\Users\PrincessDao\.gradle\caches\transforms-4\dc7225d8468e5819b851f7b591a1d44e\transformed\recyclerview-1.3.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.media:media:1.6.0] C:\Users\PrincessDao\.gradle\caches\transforms-4\37ed1f10e57a4f3bdee641a93b33ec30\transformed\media-1.6.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.media:media:1.6.0] C:\Users\PrincessDao\.gradle\caches\transforms-4\37ed1f10e57a4f3bdee641a93b33ec30\transformed\media-1.6.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\PrincessDao\.gradle\caches\transforms-4\06d9c57071cc2ab99c97cbeb1e159188\transformed\customview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\PrincessDao\.gradle\caches\transforms-4\06d9c57071cc2ab99c97cbeb1e159188\transformed\customview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.autofill:autofill:1.0.0] C:\Users\PrincessDao\.gradle\caches\transforms-4\92b944063df92755cf15b3de9a7146a8\transformed\autofill-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.autofill:autofill:1.0.0] C:\Users\PrincessDao\.gradle\caches\transforms-4\92b944063df92755cf15b3de9a7146a8\transformed\autofill-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.emoji2:emoji2:1.3.0] C:\Users\PrincessDao\.gradle\caches\transforms-4\f1e427f31fabb8a9312f0b330f37bc34\transformed\emoji2-1.3.0\AndroidManifest.xml:21:5-44
+MERGED from [androidx.emoji2:emoji2:1.3.0] C:\Users\PrincessDao\.gradle\caches\transforms-4\f1e427f31fabb8a9312f0b330f37bc34\transformed\emoji2-1.3.0\AndroidManifest.xml:21:5-44
+MERGED from [androidx.customview:customview-poolingcontainer:1.0.0] C:\Users\PrincessDao\.gradle\caches\transforms-4\d7c273e51c7ae39fa3776d2b86d20525\transformed\customview-poolingcontainer-1.0.0\AndroidManifest.xml:20:5-21:38
+MERGED from [androidx.customview:customview-poolingcontainer:1.0.0] C:\Users\PrincessDao\.gradle\caches\transforms-4\d7c273e51c7ae39fa3776d2b86d20525\transformed\customview-poolingcontainer-1.0.0\AndroidManifest.xml:20:5-21:38
+MERGED from [androidx.core:core-ktx:1.13.1] C:\Users\PrincessDao\.gradle\caches\transforms-4\c11779bf4d9cae75f579657315760437\transformed\core-ktx-1.13.1\AndroidManifest.xml:5:5-44
+MERGED from [androidx.core:core-ktx:1.13.1] C:\Users\PrincessDao\.gradle\caches\transforms-4\c11779bf4d9cae75f579657315760437\transformed\core-ktx-1.13.1\AndroidManifest.xml:5:5-44
+MERGED from [androidx.core:core:1.13.1] C:\Users\PrincessDao\.gradle\caches\transforms-4\e3969c6af169c496b1f78089068881a6\transformed\core-1.13.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.13.1] C:\Users\PrincessDao\.gradle\caches\transforms-4\e3969c6af169c496b1f78089068881a6\transformed\core-1.13.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-process:2.8.3] C:\Users\PrincessDao\.gradle\caches\transforms-4\d54bad90d208bc956671c8aceedbb75d\transformed\lifecycle-process-2.8.3\AndroidManifest.xml:21:5-44
+MERGED from [androidx.lifecycle:lifecycle-process:2.8.3] C:\Users\PrincessDao\.gradle\caches\transforms-4\d54bad90d208bc956671c8aceedbb75d\transformed\lifecycle-process-2.8.3\AndroidManifest.xml:21:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.8.3] C:\Users\PrincessDao\.gradle\caches\transforms-4\bb6d4beda26901fec87e1bedeceb640a\transformed\lifecycle-livedata-core-2.8.3\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.8.3] C:\Users\PrincessDao\.gradle\caches\transforms-4\bb6d4beda26901fec87e1bedeceb640a\transformed\lifecycle-livedata-core-2.8.3\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-android:2.8.3] C:\Users\PrincessDao\.gradle\caches\transforms-4\c6d406dd7c71926fbdea8802a2e79313\transformed\lifecycle-viewmodel-release\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-android:2.8.3] C:\Users\PrincessDao\.gradle\caches\transforms-4\c6d406dd7c71926fbdea8802a2e79313\transformed\lifecycle-viewmodel-release\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime-ktx-android:2.8.3] C:\Users\PrincessDao\.gradle\caches\transforms-4\efbd026e9d5ed6c1c4bdcd315a90b4ec\transformed\lifecycle-runtime-ktx-release\AndroidManifest.xml:5:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime-ktx-android:2.8.3] C:\Users\PrincessDao\.gradle\caches\transforms-4\efbd026e9d5ed6c1c4bdcd315a90b4ec\transformed\lifecycle-runtime-ktx-release\AndroidManifest.xml:5:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime-android:2.8.3] C:\Users\PrincessDao\.gradle\caches\transforms-4\c763ad8345e78e4a7f429d760c963f3b\transformed\lifecycle-runtime-release\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime-android:2.8.3] C:\Users\PrincessDao\.gradle\caches\transforms-4\c763ad8345e78e4a7f429d760c963f3b\transformed\lifecycle-runtime-release\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-ktx:2.8.3] C:\Users\PrincessDao\.gradle\caches\transforms-4\f9c089a09a480da9b1ef03a8b2821b20\transformed\lifecycle-viewmodel-ktx-2.8.3\AndroidManifest.xml:5:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-ktx:2.8.3] C:\Users\PrincessDao\.gradle\caches\transforms-4\f9c089a09a480da9b1ef03a8b2821b20\transformed\lifecycle-viewmodel-ktx-2.8.3\AndroidManifest.xml:5:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime-compose-android:2.8.3] C:\Users\PrincessDao\.gradle\caches\transforms-4\8ad72e0ccf3f593c0115c77875339daa\transformed\lifecycle-runtime-compose-release\AndroidManifest.xml:5:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime-compose-android:2.8.3] C:\Users\PrincessDao\.gradle\caches\transforms-4\8ad72e0ccf3f593c0115c77875339daa\transformed\lifecycle-runtime-compose-release\AndroidManifest.xml:5:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.8.3] C:\Users\PrincessDao\.gradle\caches\transforms-4\34e5bc378fc077b155861c0de1f7274e\transformed\lifecycle-viewmodel-savedstate-2.8.3\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.8.3] C:\Users\PrincessDao\.gradle\caches\transforms-4\34e5bc378fc077b155861c0de1f7274e\transformed\lifecycle-viewmodel-savedstate-2.8.3\AndroidManifest.xml:20:5-44
+MERGED from [androidx.savedstate:savedstate:1.2.1] C:\Users\PrincessDao\.gradle\caches\transforms-4\8b099f154293f169c2b202024611a2e6\transformed\savedstate-1.2.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.savedstate:savedstate:1.2.1] C:\Users\PrincessDao\.gradle\caches\transforms-4\8b099f154293f169c2b202024611a2e6\transformed\savedstate-1.2.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.savedstate:savedstate-ktx:1.2.1] C:\Users\PrincessDao\.gradle\caches\transforms-4\db07a95ae8451d67b1b6234d1a2f4271\transformed\savedstate-ktx-1.2.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.savedstate:savedstate-ktx:1.2.1] C:\Users\PrincessDao\.gradle\caches\transforms-4\db07a95ae8451d67b1b6234d1a2f4271\transformed\savedstate-ktx-1.2.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.compose.runtime:runtime-saveable-android:1.7.2] C:\Users\PrincessDao\.gradle\caches\transforms-4\2618fb9b05d8bc1e0d1aeb6fce093bd7\transformed\runtime-saveable-release\AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.runtime:runtime-saveable-android:1.7.2] C:\Users\PrincessDao\.gradle\caches\transforms-4\2618fb9b05d8bc1e0d1aeb6fce093bd7\transformed\runtime-saveable-release\AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.runtime:runtime-android:1.7.2] C:\Users\PrincessDao\.gradle\caches\transforms-4\e44451f082bbc3ec95b1b6650b15b03e\transformed\runtime-release\AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.runtime:runtime-android:1.7.2] C:\Users\PrincessDao\.gradle\caches\transforms-4\e44451f082bbc3ec95b1b6650b15b03e\transformed\runtime-release\AndroidManifest.xml:5:5-44
+MERGED from [androidx.annotation:annotation-experimental:1.4.1] C:\Users\PrincessDao\.gradle\caches\transforms-4\e88918b192363f3af9e2ece922b07566\transformed\annotation-experimental-1.4.1\AndroidManifest.xml:5:5-44
+MERGED from [androidx.annotation:annotation-experimental:1.4.1] C:\Users\PrincessDao\.gradle\caches\transforms-4\e88918b192363f3af9e2ece922b07566\transformed\annotation-experimental-1.4.1\AndroidManifest.xml:5:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\PrincessDao\.gradle\caches\transforms-4\35f9aac25de254328cdb8c4487904b0f\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\PrincessDao\.gradle\caches\transforms-4\35f9aac25de254328cdb8c4487904b0f\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.exoplayer:exoplayer-datasource:2.19.1] C:\Users\PrincessDao\.gradle\caches\transforms-4\a60275b8cf7487c243cc2e57fb22522c\transformed\exoplayer-datasource-2.19.1\AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.exoplayer:exoplayer-datasource:2.19.1] C:\Users\PrincessDao\.gradle\caches\transforms-4\a60275b8cf7487c243cc2e57fb22522c\transformed\exoplayer-datasource-2.19.1\AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.exoplayer:exoplayer-database:2.19.1] C:\Users\PrincessDao\.gradle\caches\transforms-4\f490c1dd0dcbf37a25ffb2758729de1a\transformed\exoplayer-database-2.19.1\AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.exoplayer:exoplayer-database:2.19.1] C:\Users\PrincessDao\.gradle\caches\transforms-4\f490c1dd0dcbf37a25ffb2758729de1a\transformed\exoplayer-database-2.19.1\AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.exoplayer:exoplayer-extractor:2.19.1] C:\Users\PrincessDao\.gradle\caches\transforms-4\cb11301a5db60d13fda9ca8e3dd5a3c7\transformed\exoplayer-extractor-2.19.1\AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.exoplayer:exoplayer-extractor:2.19.1] C:\Users\PrincessDao\.gradle\caches\transforms-4\cb11301a5db60d13fda9ca8e3dd5a3c7\transformed\exoplayer-extractor-2.19.1\AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.exoplayer:exoplayer-decoder:2.19.1] C:\Users\PrincessDao\.gradle\caches\transforms-4\d21f648e7d18406936ea66d1c1bf2794\transformed\exoplayer-decoder-2.19.1\AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.exoplayer:exoplayer-decoder:2.19.1] C:\Users\PrincessDao\.gradle\caches\transforms-4\d21f648e7d18406936ea66d1c1bf2794\transformed\exoplayer-decoder-2.19.1\AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.exoplayer:exoplayer-container:2.19.1] C:\Users\PrincessDao\.gradle\caches\transforms-4\a952e08e730c288e703767cd8605747c\transformed\exoplayer-container-2.19.1\AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.exoplayer:exoplayer-container:2.19.1] C:\Users\PrincessDao\.gradle\caches\transforms-4\a952e08e730c288e703767cd8605747c\transformed\exoplayer-container-2.19.1\AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.exoplayer:exoplayer-common:2.19.1] C:\Users\PrincessDao\.gradle\caches\transforms-4\c94a4d8c4d19e7e6991fe7b87d6badca\transformed\exoplayer-common-2.19.1\AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.exoplayer:exoplayer-common:2.19.1] C:\Users\PrincessDao\.gradle\caches\transforms-4\c94a4d8c4d19e7e6991fe7b87d6badca\transformed\exoplayer-common-2.19.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\PrincessDao\.gradle\caches\transforms-4\e8afe6b0e80aff6a34543253d5dedc6d\transformed\profileinstaller-1.3.1\AndroidManifest.xml:21:5-44
+MERGED from [androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\PrincessDao\.gradle\caches\transforms-4\e8afe6b0e80aff6a34543253d5dedc6d\transformed\profileinstaller-1.3.1\AndroidManifest.xml:21:5-44
+MERGED from [androidx.startup:startup-runtime:1.1.1] C:\Users\PrincessDao\.gradle\caches\transforms-4\63bbd941d0f4b87558e909800d865ef6\transformed\startup-runtime-1.1.1\AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.startup:startup-runtime:1.1.1] C:\Users\PrincessDao\.gradle\caches\transforms-4\63bbd941d0f4b87558e909800d865ef6\transformed\startup-runtime-1.1.1\AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.tracing:tracing:1.0.0] C:\Users\PrincessDao\.gradle\caches\transforms-4\4220d95172ba473b088625eb0be23e69\transformed\tracing-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.tracing:tracing:1.0.0] C:\Users\PrincessDao\.gradle\caches\transforms-4\4220d95172ba473b088625eb0be23e69\transformed\tracing-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\PrincessDao\.gradle\caches\transforms-4\88d3a1dd1b883705195a5149a398ac5b\transformed\interpolator-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\PrincessDao\.gradle\caches\transforms-4\88d3a1dd1b883705195a5149a398ac5b\transformed\interpolator-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.2.0] C:\Users\PrincessDao\.gradle\caches\transforms-4\999d4caf884514baddd0e07fc2aacad2\transformed\core-runtime-2.2.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.2.0] C:\Users\PrincessDao\.gradle\caches\transforms-4\999d4caf884514baddd0e07fc2aacad2\transformed\core-runtime-2.2.0\AndroidManifest.xml:20:5-44
+	android:targetSdkVersion
+		INJECTED from J:\AndroidStudioProjects\Krona\composeApp\src\androidMain\AndroidManifest.xml
+	tools:ignore
+		ADDED from [com.google.accompanist:accompanist-systemuicontroller:0.30.0] C:\Users\PrincessDao\.gradle\caches\transforms-4\137cc456830f8dea4ec9d142d5cab18a\transformed\accompanist-systemuicontroller-0.30.0\AndroidManifest.xml:23:9-39
+	android:minSdkVersion
+		INJECTED from J:\AndroidStudioProjects\Krona\composeApp\src\androidMain\AndroidManifest.xml
+activity#androidx.compose.ui.tooling.PreviewActivity
+ADDED from [androidx.compose.ui:ui-tooling-android:1.7.2] C:\Users\PrincessDao\.gradle\caches\transforms-4\00babfffde927fefb14611bd28bf2db8\transformed\ui-tooling-release\AndroidManifest.xml:23:9-25:39
+	android:exported
+		ADDED from [androidx.compose.ui:ui-tooling-android:1.7.2] C:\Users\PrincessDao\.gradle\caches\transforms-4\00babfffde927fefb14611bd28bf2db8\transformed\ui-tooling-release\AndroidManifest.xml:25:13-36
+	android:name
+		ADDED from [androidx.compose.ui:ui-tooling-android:1.7.2] C:\Users\PrincessDao\.gradle\caches\transforms-4\00babfffde927fefb14611bd28bf2db8\transformed\ui-tooling-release\AndroidManifest.xml:24:13-71
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from [com.google.android.exoplayer:exoplayer-core:2.19.1] C:\Users\PrincessDao\.gradle\caches\transforms-4\794a3f35148a67089cc33fdf44e248b4\transformed\exoplayer-core-2.19.1\AndroidManifest.xml:24:5-79
+MERGED from [com.google.android.exoplayer:exoplayer-common:2.19.1] C:\Users\PrincessDao\.gradle\caches\transforms-4\c94a4d8c4d19e7e6991fe7b87d6badca\transformed\exoplayer-common-2.19.1\AndroidManifest.xml:24:5-79
+MERGED from [com.google.android.exoplayer:exoplayer-common:2.19.1] C:\Users\PrincessDao\.gradle\caches\transforms-4\c94a4d8c4d19e7e6991fe7b87d6badca\transformed\exoplayer-common-2.19.1\AndroidManifest.xml:24:5-79
+	android:name
+		ADDED from [com.google.android.exoplayer:exoplayer-core:2.19.1] C:\Users\PrincessDao\.gradle\caches\transforms-4\794a3f35148a67089cc33fdf44e248b4\transformed\exoplayer-core-2.19.1\AndroidManifest.xml:24:22-76
+provider#androidx.startup.InitializationProvider
+ADDED from [androidx.emoji2:emoji2:1.3.0] C:\Users\PrincessDao\.gradle\caches\transforms-4\f1e427f31fabb8a9312f0b330f37bc34\transformed\emoji2-1.3.0\AndroidManifest.xml:24:9-32:20
+MERGED from [androidx.lifecycle:lifecycle-process:2.8.3] C:\Users\PrincessDao\.gradle\caches\transforms-4\d54bad90d208bc956671c8aceedbb75d\transformed\lifecycle-process-2.8.3\AndroidManifest.xml:24:9-32:20
+MERGED from [androidx.lifecycle:lifecycle-process:2.8.3] C:\Users\PrincessDao\.gradle\caches\transforms-4\d54bad90d208bc956671c8aceedbb75d\transformed\lifecycle-process-2.8.3\AndroidManifest.xml:24:9-32:20
+MERGED from [androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\PrincessDao\.gradle\caches\transforms-4\e8afe6b0e80aff6a34543253d5dedc6d\transformed\profileinstaller-1.3.1\AndroidManifest.xml:24:9-32:20
+MERGED from [androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\PrincessDao\.gradle\caches\transforms-4\e8afe6b0e80aff6a34543253d5dedc6d\transformed\profileinstaller-1.3.1\AndroidManifest.xml:24:9-32:20
+MERGED from [androidx.startup:startup-runtime:1.1.1] C:\Users\PrincessDao\.gradle\caches\transforms-4\63bbd941d0f4b87558e909800d865ef6\transformed\startup-runtime-1.1.1\AndroidManifest.xml:26:9-30:34
+MERGED from [androidx.startup:startup-runtime:1.1.1] C:\Users\PrincessDao\.gradle\caches\transforms-4\63bbd941d0f4b87558e909800d865ef6\transformed\startup-runtime-1.1.1\AndroidManifest.xml:26:9-30:34
+	tools:node
+		ADDED from [androidx.emoji2:emoji2:1.3.0] C:\Users\PrincessDao\.gradle\caches\transforms-4\f1e427f31fabb8a9312f0b330f37bc34\transformed\emoji2-1.3.0\AndroidManifest.xml:28:13-31
+	android:authorities
+		ADDED from [androidx.emoji2:emoji2:1.3.0] C:\Users\PrincessDao\.gradle\caches\transforms-4\f1e427f31fabb8a9312f0b330f37bc34\transformed\emoji2-1.3.0\AndroidManifest.xml:26:13-68
+	android:exported
+		ADDED from [androidx.emoji2:emoji2:1.3.0] C:\Users\PrincessDao\.gradle\caches\transforms-4\f1e427f31fabb8a9312f0b330f37bc34\transformed\emoji2-1.3.0\AndroidManifest.xml:27:13-37
+	android:name
+		ADDED from [androidx.emoji2:emoji2:1.3.0] C:\Users\PrincessDao\.gradle\caches\transforms-4\f1e427f31fabb8a9312f0b330f37bc34\transformed\emoji2-1.3.0\AndroidManifest.xml:25:13-67
+meta-data#androidx.emoji2.text.EmojiCompatInitializer
+ADDED from [androidx.emoji2:emoji2:1.3.0] C:\Users\PrincessDao\.gradle\caches\transforms-4\f1e427f31fabb8a9312f0b330f37bc34\transformed\emoji2-1.3.0\AndroidManifest.xml:29:13-31:52
+	android:value
+		ADDED from [androidx.emoji2:emoji2:1.3.0] C:\Users\PrincessDao\.gradle\caches\transforms-4\f1e427f31fabb8a9312f0b330f37bc34\transformed\emoji2-1.3.0\AndroidManifest.xml:31:17-49
+	android:name
+		ADDED from [androidx.emoji2:emoji2:1.3.0] C:\Users\PrincessDao\.gradle\caches\transforms-4\f1e427f31fabb8a9312f0b330f37bc34\transformed\emoji2-1.3.0\AndroidManifest.xml:30:17-75
+permission#${applicationId}.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION
+ADDED from [androidx.core:core:1.13.1] C:\Users\PrincessDao\.gradle\caches\transforms-4\e3969c6af169c496b1f78089068881a6\transformed\core-1.13.1\AndroidManifest.xml:22:5-24:47
+	android:protectionLevel
+		ADDED from [androidx.core:core:1.13.1] C:\Users\PrincessDao\.gradle\caches\transforms-4\e3969c6af169c496b1f78089068881a6\transformed\core-1.13.1\AndroidManifest.xml:24:9-44
+	android:name
+		ADDED from [androidx.core:core:1.13.1] C:\Users\PrincessDao\.gradle\caches\transforms-4\e3969c6af169c496b1f78089068881a6\transformed\core-1.13.1\AndroidManifest.xml:23:9-81
+permission#org.example.krona.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION
+ADDED from [androidx.core:core:1.13.1] C:\Users\PrincessDao\.gradle\caches\transforms-4\e3969c6af169c496b1f78089068881a6\transformed\core-1.13.1\AndroidManifest.xml:22:5-24:47
+	android:protectionLevel
+		ADDED from [androidx.core:core:1.13.1] C:\Users\PrincessDao\.gradle\caches\transforms-4\e3969c6af169c496b1f78089068881a6\transformed\core-1.13.1\AndroidManifest.xml:24:9-44
+	android:name
+		ADDED from [androidx.core:core:1.13.1] C:\Users\PrincessDao\.gradle\caches\transforms-4\e3969c6af169c496b1f78089068881a6\transformed\core-1.13.1\AndroidManifest.xml:23:9-81
+uses-permission#${applicationId}.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION
+ADDED from [androidx.core:core:1.13.1] C:\Users\PrincessDao\.gradle\caches\transforms-4\e3969c6af169c496b1f78089068881a6\transformed\core-1.13.1\AndroidManifest.xml:26:5-97
+	android:name
+		ADDED from [androidx.core:core:1.13.1] C:\Users\PrincessDao\.gradle\caches\transforms-4\e3969c6af169c496b1f78089068881a6\transformed\core-1.13.1\AndroidManifest.xml:26:22-94
+uses-permission#org.example.krona.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION
+ADDED from [androidx.core:core:1.13.1] C:\Users\PrincessDao\.gradle\caches\transforms-4\e3969c6af169c496b1f78089068881a6\transformed\core-1.13.1\AndroidManifest.xml:26:5-97
+	android:name
+		ADDED from [androidx.core:core:1.13.1] C:\Users\PrincessDao\.gradle\caches\transforms-4\e3969c6af169c496b1f78089068881a6\transformed\core-1.13.1\AndroidManifest.xml:26:22-94
+meta-data#androidx.lifecycle.ProcessLifecycleInitializer
+ADDED from [androidx.lifecycle:lifecycle-process:2.8.3] C:\Users\PrincessDao\.gradle\caches\transforms-4\d54bad90d208bc956671c8aceedbb75d\transformed\lifecycle-process-2.8.3\AndroidManifest.xml:29:13-31:52
+	android:value
+		ADDED from [androidx.lifecycle:lifecycle-process:2.8.3] C:\Users\PrincessDao\.gradle\caches\transforms-4\d54bad90d208bc956671c8aceedbb75d\transformed\lifecycle-process-2.8.3\AndroidManifest.xml:31:17-49
+	android:name
+		ADDED from [androidx.lifecycle:lifecycle-process:2.8.3] C:\Users\PrincessDao\.gradle\caches\transforms-4\d54bad90d208bc956671c8aceedbb75d\transformed\lifecycle-process-2.8.3\AndroidManifest.xml:30:17-78
+meta-data#androidx.profileinstaller.ProfileInstallerInitializer
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\PrincessDao\.gradle\caches\transforms-4\e8afe6b0e80aff6a34543253d5dedc6d\transformed\profileinstaller-1.3.1\AndroidManifest.xml:29:13-31:52
+	android:value
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\PrincessDao\.gradle\caches\transforms-4\e8afe6b0e80aff6a34543253d5dedc6d\transformed\profileinstaller-1.3.1\AndroidManifest.xml:31:17-49
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\PrincessDao\.gradle\caches\transforms-4\e8afe6b0e80aff6a34543253d5dedc6d\transformed\profileinstaller-1.3.1\AndroidManifest.xml:30:17-85
+receiver#androidx.profileinstaller.ProfileInstallReceiver
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\PrincessDao\.gradle\caches\transforms-4\e8afe6b0e80aff6a34543253d5dedc6d\transformed\profileinstaller-1.3.1\AndroidManifest.xml:34:9-52:20
+	android:enabled
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\PrincessDao\.gradle\caches\transforms-4\e8afe6b0e80aff6a34543253d5dedc6d\transformed\profileinstaller-1.3.1\AndroidManifest.xml:37:13-35
+	android:exported
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\PrincessDao\.gradle\caches\transforms-4\e8afe6b0e80aff6a34543253d5dedc6d\transformed\profileinstaller-1.3.1\AndroidManifest.xml:38:13-36
+	android:permission
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\PrincessDao\.gradle\caches\transforms-4\e8afe6b0e80aff6a34543253d5dedc6d\transformed\profileinstaller-1.3.1\AndroidManifest.xml:39:13-57
+	android:directBootAware
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\PrincessDao\.gradle\caches\transforms-4\e8afe6b0e80aff6a34543253d5dedc6d\transformed\profileinstaller-1.3.1\AndroidManifest.xml:36:13-44
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\PrincessDao\.gradle\caches\transforms-4\e8afe6b0e80aff6a34543253d5dedc6d\transformed\profileinstaller-1.3.1\AndroidManifest.xml:35:13-76
+intent-filter#action:name:androidx.profileinstaller.action.INSTALL_PROFILE
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\PrincessDao\.gradle\caches\transforms-4\e8afe6b0e80aff6a34543253d5dedc6d\transformed\profileinstaller-1.3.1\AndroidManifest.xml:40:13-42:29
+action#androidx.profileinstaller.action.INSTALL_PROFILE
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\PrincessDao\.gradle\caches\transforms-4\e8afe6b0e80aff6a34543253d5dedc6d\transformed\profileinstaller-1.3.1\AndroidManifest.xml:41:17-91
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\PrincessDao\.gradle\caches\transforms-4\e8afe6b0e80aff6a34543253d5dedc6d\transformed\profileinstaller-1.3.1\AndroidManifest.xml:41:25-88
+intent-filter#action:name:androidx.profileinstaller.action.SKIP_FILE
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\PrincessDao\.gradle\caches\transforms-4\e8afe6b0e80aff6a34543253d5dedc6d\transformed\profileinstaller-1.3.1\AndroidManifest.xml:43:13-45:29
+action#androidx.profileinstaller.action.SKIP_FILE
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\PrincessDao\.gradle\caches\transforms-4\e8afe6b0e80aff6a34543253d5dedc6d\transformed\profileinstaller-1.3.1\AndroidManifest.xml:44:17-85
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\PrincessDao\.gradle\caches\transforms-4\e8afe6b0e80aff6a34543253d5dedc6d\transformed\profileinstaller-1.3.1\AndroidManifest.xml:44:25-82
+intent-filter#action:name:androidx.profileinstaller.action.SAVE_PROFILE
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\PrincessDao\.gradle\caches\transforms-4\e8afe6b0e80aff6a34543253d5dedc6d\transformed\profileinstaller-1.3.1\AndroidManifest.xml:46:13-48:29
+action#androidx.profileinstaller.action.SAVE_PROFILE
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\PrincessDao\.gradle\caches\transforms-4\e8afe6b0e80aff6a34543253d5dedc6d\transformed\profileinstaller-1.3.1\AndroidManifest.xml:47:17-88
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\PrincessDao\.gradle\caches\transforms-4\e8afe6b0e80aff6a34543253d5dedc6d\transformed\profileinstaller-1.3.1\AndroidManifest.xml:47:25-85
+intent-filter#action:name:androidx.profileinstaller.action.BENCHMARK_OPERATION
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\PrincessDao\.gradle\caches\transforms-4\e8afe6b0e80aff6a34543253d5dedc6d\transformed\profileinstaller-1.3.1\AndroidManifest.xml:49:13-51:29
+action#androidx.profileinstaller.action.BENCHMARK_OPERATION
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\PrincessDao\.gradle\caches\transforms-4\e8afe6b0e80aff6a34543253d5dedc6d\transformed\profileinstaller-1.3.1\AndroidManifest.xml:50:17-95
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\PrincessDao\.gradle\caches\transforms-4\e8afe6b0e80aff6a34543253d5dedc6d\transformed\profileinstaller-1.3.1\AndroidManifest.xml:50:25-92

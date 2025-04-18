@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module external.linked.project.id=":composeApp:iosSimulatorArm64Test" external.linked.project.path="$MODULE_DIR$/../../../composeApp" external.root.project.path="$MODULE_DIR$/../../.." external.system.id="GRADLE" external.system.module.group="krona" external.system.module.type="sourceSet" external.system.module.version="unspecified" type="JAVA_MODULE" version="4">
+  <component name="FacetManager">
+    <facet external-system-id="GRADLE" type="kotlin-language" name="Kotlin">
+      <configuration version="5" platform="Native (ios_simulator_arm64) " allPlatforms="Native []/Native [ios_simulator_arm64]" useProjectSettings="false" isTestModule="true" externalProjectId=":composeApp" isHmppProject="true">
+        <dependsOnModuleNames>
+          <dependsOn>:composeApp:iosTest</dependsOn>
+          <dependsOn>:composeApp:appleTest</dependsOn>
+          <dependsOn>:composeApp:nativeTest</dependsOn>
+          <dependsOn>:composeApp:commonTest</dependsOn>
+        </dependsOnModuleNames>
+        <additionalVisibleModuleNames>
+          <friend>:composeApp:iosSimulatorArm64Main</friend>
+          <friend>:composeApp:iosMain</friend>
+          <friend>:composeApp:appleMain</friend>
+          <friend>:composeApp:nativeMain</friend>
+          <friend>:composeApp:commonMain</friend>
+        </additionalVisibleModuleNames>
+        <sourceSets>
+          <sourceSet>krona.composeApp.iosTest</sourceSet>
+          <sourceSet>krona.composeApp.appleTest</sourceSet>
+          <sourceSet>krona.composeApp.nativeTest</sourceSet>
+          <sourceSet>krona.composeApp.commonTest</sourceSet>
+        </sourceSets>
+        <newMppModelJpsModuleKind>COMPILATION_AND_SOURCE_SET_HOLDER</newMppModelJpsModuleKind>
+        <compilerSettings>
+          <option name="additionalArguments" value="-nostdlib" />
+        </compilerSettings>
+        <compilerArguments>
+          <flagArguments>
+            <flagArg name="debug" arg="true" />
+            <flagArg name="enableAssertions" arg="true" />
+            <flagArg name="noendorsedlibs" arg="true" />
+            <flagArg name="multiPlatform" arg="true" />
+          </flagArguments>
+          <stringArguments>
+            <stringArg name="moduleName" arg="krona:composeApp_test" />
+            <stringArg name="outputName" arg="J:\AndroidStudioProjects\Krona\composeApp\build\classes\kotlin\iosSimulatorArm64\test\klib\composeApp_test.klib" />
+            <stringArg name="produce" arg="library" />
+            <stringArg name="shortModuleName" arg="composeApp_test" />
+            <stringArg name="target" arg="ios_simulator_arm64" />
+            <stringArg name="apiVersion" arg="2.0" />
+            <stringArg name="languageVersion" arg="2.0" />
+          </stringArguments>
+          <arrayArguments>
+            <arrayArg name="fragmentRefines">
+              <args>
+                <arg>iosSimulatorArm64Test:iosTest</arg>
+                <arg>iosTest:appleTest</arg>
+                <arg>appleTest:nativeTest</arg>
+                <arg>nativeTest:commonTest</arg>
+              </args>
+            </arrayArg>
+            <arrayArg name="fragments">
+              <args>
+                <arg>iosSimulatorArm64Test</arg>
+                <arg>iosTest</arg>
+                <arg>appleTest</arg>
+                <arg>nativeTest</arg>
+                <arg>commonTest</arg>
+              </args>
+            </arrayArg>
+            <arrayArg name="pluginClasspaths">
+              <args>$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.jetbrains.kotlin/kotlin-compose-compiler-plugin-embeddable/2.0.20/d3b5072df7943425b2ec5b5cfb323701cb5d8bd2/kotlin-compose-compiler-plugin-embeddable-2.0.20.jar</args>
+            </arrayArg>
+            <arrayArg name="pluginOptions">
+              <args>
+                <arg>plugin:androidx.compose.compiler.plugins.kotlin:generateFunctionKeyMetaClasses=false</arg>
+                <arg>plugin:androidx.compose.compiler.plugins.kotlin:traceMarkersEnabled=true</arg>
+              </args>
+            </arrayArg>
+          </arrayArguments>
+        </compilerArguments>
+      </configuration>
+    </facet>
+  </component>
+  <component name="NewModuleRootManager">
+    <output-test url="file://$MODULE_DIR$/../../../composeApp/build/classes/kotlin/iosSimulatorArm64/test/klib" />
+    <exclude-output />
+    <content url="file://$MODULE_DIR$/../../../composeApp/build/generated/compose/resourceGenerator/kotlin/iosSimulatorArm64TestResourceAccessors" />
+    <content url="file://$MODULE_DIR$/../../../composeApp/src/iosSimulatorArm64Test" />
+    <orderEntry type="jdk" jdkName="Kotlin SDK" jdkType="KotlinSDK" />
+    <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="module" module-name="krona.composeApp.iosTest" scope="TEST" />
+    <orderEntry type="module" module-name="krona.composeApp.appleTest" scope="TEST" />
+    <orderEntry type="module" module-name="krona.composeApp.nativeTest" scope="TEST" />
+    <orderEntry type="module" module-name="krona.composeApp.commonTest" scope="TEST" />
+    <orderEntry type="module" module-name="krona.composeApp.iosSimulatorArm64Main" scope="TEST" />
+    <orderEntry type="module" module-name="krona.composeApp.iosMain" scope="TEST" />
+    <orderEntry type="module" module-name="krona.composeApp.appleMain" scope="TEST" />
+    <orderEntry type="module" module-name="krona.composeApp.nativeMain" scope="TEST" />
+    <orderEntry type="module" module-name="krona.composeApp.commonMain" scope="TEST" />
+    <orderEntry type="library" scope="TEST" name="Gradle: Kotlin/Native: stdlib" level="project" />
+    <orderEntry type="library" scope="TEST" name="Gradle: org.jetbrains.compose.components:components-resources-iosSimulatorArm64:1.6.11" level="project" />
+    <orderEntry type="library" scope="TEST" name="Gradle: org.jetbrains.compose.components:components-ui-tooling-preview-iosSimulatorArm64:1.6.11" level="project" />
+    <orderEntry type="library" scope="TEST" name="Gradle: org.jetbrains.compose.material:material-uikitsimarm64:1.6.11" level="project" />
+    <orderEntry type="library" scope="TEST" name="Gradle: org.jetbrains.compose.material3:material3-uikitsimarm64:1.6.11" level="project" />
+    <orderEntry type="library" scope="TEST" name="Gradle: org.jetbrains.compose.material:material-ripple-uikitsimarm64:1.6.11" level="project" />
+    <orderEntry type="library" scope="TEST" name="Gradle: org.jetbrains.compose.foundation:foundation-uikitsimarm64:1.6.11" level="project" />
+    <orderEntry type="library" scope="TEST" name="Gradle: org.jetbrains.compose.animation:animation-uikitsimarm64:1.6.11" level="project" />
+    <orderEntry type="library" scope="TEST" name="Gradle: org.jetbrains.compose.foundation:foundation-layout-uikitsimarm64:1.6.11" level="project" />
+    <orderEntry type="library" scope="TEST" name="Gradle: org.jetbrains.compose.animation:animation-core-uikitsimarm64:1.6.11" level="project" />
+    <orderEntry type="library" scope="TEST" name="Gradle: org.jetbrains.compose.material:material-icons-core-uikitsimarm64:1.6.11" level="project" />
+    <orderEntry type="library" scope="TEST" name="Gradle: org.jetbrains.compose.ui:ui-uikitsimarm64:1.6.11" level="project" />
+    <orderEntry type="library" scope="TEST" name="Gradle: org.jetbrains.androidx.lifecycle:lifecycle-runtime-compose-uikitsimarm64:2.8.0" level="project" />
+    <orderEntry type="library" scope="TEST" name="Gradle: androidx.lifecycle:lifecycle-runtime-iossimulatorarm64:2.8.0" level="project" />
+    <orderEntry type="library" scope="TEST" name="Gradle: androidx.lifecycle:lifecycle-common-iossimulatorarm64:2.8.0" level="project" />
+    <orderEntry type="library" scope="TEST" name="Gradle: androidx.lifecycle:lifecycle-viewmodel-iossimulatorarm64:2.8.0" level="project" />
+    <orderEntry type="library" scope="TEST" name="Gradle: org.jetbrains.compose.ui:ui-text-uikitsimarm64:1.6.11" level="project" />
+    <orderEntry type="library" scope="TEST" name="Gradle: org.jetbrains.compose.runtime:runtime-saveable-uikitsimarm64:1.6.11" level="project" />
+    <orderEntry type="library" scope="TEST" name="Gradle: org.jetbrains.compose.ui:ui-graphics-uikitsimarm64:1.6.11" level="project" />
+    <orderEntry type="library" scope="TEST" name="Gradle: org.jetbrains.compose.ui:ui-unit-uikitsimarm64:1.6.11" level="project" />
+    <orderEntry type="library" scope="TEST" name="Gradle: org.jetbrains.compose.ui:ui-geometry-uikitsimarm64:1.6.11" level="project" />
+    <orderEntry type="library" scope="TEST" name="Gradle: org.jetbrains.compose.runtime:runtime-uikitsimarm64:1.6.11" level="project" />
+    <orderEntry type="library" scope="TEST" name="Gradle: org.jetbrains.skiko:skiko-iossimulatorarm64:0.8.4" level="project" />
+    <orderEntry type="library" scope="TEST" name="Gradle: org.jetbrains.kotlinx:kotlinx-coroutines-core-iossimulatorarm64:1.8.0" level="project" />
+    <orderEntry type="library" scope="TEST" name="Gradle: org.jetbrains.kotlinx:atomicfu-iossimulatorarm64:0.23.2" level="project" />
+    <orderEntry type="library" scope="TEST" name="Gradle: org.jetbrains.kotlinx:kotlinx-datetime-iossimulatorarm64:0.6.0" level="project" />
+    <orderEntry type="library" scope="TEST" name="Gradle: androidx.collection:collection-iossimulatorarm64:1.4.0" level="project" />
+    <orderEntry type="library" scope="TEST" name="Gradle: androidx.annotation:annotation-iossimulatorarm64:1.8.0" level="project" />
+    <orderEntry type="library" scope="TEST" name="Gradle: org.jetbrains.kotlinx:kotlinx-serialization-core-iossimulatorarm64:1.6.2" level="project" />
+    <orderEntry type="library" scope="TEST" name="Gradle: org.jetbrains.compose.ui:ui-util-uikitsimarm64:1.6.11" level="project" />
+    <orderEntry type="library" scope="TEST" name="Gradle: org.jetbrains.compose.ui:ui-uikit-uikitsimarm64:1.6.11" level="project" />
+  </component>
+  <component name="TestModuleProperties" production-module="krona.composeApp.iosSimulatorArm64Main" />
+</module>
